@@ -1,0 +1,544 @@
+,,,,,,,,Standard,,,,,,,,,,,,Expected,,,,,
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+1,Patrick van Aanholt,nl NED,DF,Crystal Palace,28,1990,27.9,3,26,5,19.2,0.93,0.18,0.08,0.40,21.7,3,1,1,2.1,1.3,0.05,0.9,0.7,Matches
+2,Max Aarons,eng ENG,DF,Norwich City,19,2000,36.0,0,14,4,28.6,0.39,0.11,0.00,0.00,17.2,0,0,0,0.6,0.6,0.04,-0.6,-0.6,Matches
+3,Tammy Abraham,eng ENG,FW,Chelsea,21,1997,24.6,15,88,35,39.8,3.58,1.42,0.17,0.43,11.6,0,0,0,16.4,16.4,0.19,-1.4,-1.4,Matches
+4,Che Adams,sct SCO,FW,Southampton,23,1996,12.3,4,36,9,25.0,2.92,0.73,0.11,0.44,15.2,0,0,0,5.3,5.3,0.15,-1.3,-1.3,Matches
+5,Adrián,es ESP,GK,Liverpool,32,1987,9.7,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+6,Sergio Agüero,ar ARG,FW,Manchester City,31,1988,16.1,16,73,24,32.9,4.52,1.49,0.19,0.58,13.7,0,2,3,14.5,12.1,0.17,1.5,1.9,Matches
+7,Albian Ajeti,ch SUI,FW,West Ham,22,1997,1.5,0,3,0,0.0,1.94,0.00,0.00,,15.7,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches
+8,Nathan Aké,nl NED,DF,Bournemouth,24,1995,27.8,2,25,7,28.0,0.90,0.25,0.08,0.29,10.3,0,0,0,3.0,3.0,0.12,-1.0,-1.0,Matches
+9,Marc Albrighton,eng ENG,"MF,DF",Leicester City,29,1989,9.6,0,10,2,20.0,1.04,0.21,0.00,0.00,20.7,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Matches
+10,Toby Alderweireld,be BEL,DF,Tottenham,30,1989,32.9,2,16,4,25.0,0.49,0.12,0.13,0.50,12.6,0,0,0,0.7,0.7,0.05,1.3,1.3,Matches
+11,Trent Alexander-Arnold,eng ENG,DF,Liverpool,20,1998,35.3,4,44,13,29.5,1.25,0.37,0.09,0.31,22.6,13,0,0,2.8,2.8,0.06,1.2,1.2,Matches
+12,Alisson,br BRA,GK,Liverpool,26,1992,28.3,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+13,Dele Alli,eng ENG,"MF,FW",Tottenham,23,1996,20.5,8,41,18,43.9,2.00,0.88,0.17,0.39,14.9,0,1,1,8.1,7.3,0.18,-0.1,-0.3,Matches
+14,Miguel Almirón,py PAR,"MF,FW",Newcastle Utd,25,1994,33.6,4,56,17,30.4,1.67,0.51,0.07,0.24,16.2,0,0,0,6.7,6.7,0.12,-2.7,-2.7,Matches
+15,Marcos Alonso,es ESP,DF,Chelsea,28,1990,15.9,4,30,8,26.7,1.89,0.50,0.13,0.50,16.5,1,0,0,2.6,2.6,0.09,1.4,1.4,Matches
+16,Steven Alzate,co COL,"MF,DF",Brighton,20,1998,13.2,0,13,3,23.1,0.98,0.23,0.00,0.00,18.3,0,0,0,1.2,1.2,0.09,-1.2,-1.2,Matches
+17,Ibrahim Amadou,fr FRA,"DF,MF",Norwich City,26,1993,8.4,0,6,1,16.7,0.71,0.12,0.00,0.00,17.6,0,0,0,0.8,0.8,0.13,-0.8,-0.8,Matches
+18,Felipe Anderson,br BRA,"MF,FW",West Ham,26,1993,16.6,1,23,8,34.8,1.38,0.48,0.04,0.13,17.1,0,0,0,2.5,2.5,0.11,-1.5,-1.5,Matches
+19,Florin Andone,ro ROU,FW,Brighton,26,1993,0.8,1,1,1,100.0,1.23,1.23,1.00,1.00,7.8,0,0,0,0.4,0.4,0.36,0.6,0.6,Matches
+20,Angeliño,es ESP,DF,Manchester City,22,1997,4.7,0,5,0,0.0,1.06,0.00,0.00,,19.8,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Matches
+21,Faustino Anjorin,eng ENG,FW,Chelsea,17,2001,0.2,0,1,0,0.0,4.50,0.00,0.00,,31.8,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+22,Michail Antonio,jm JAM,FW,West Ham,29,1990,19.6,10,67,30,44.8,3.41,1.53,0.13,0.30,13.7,0,1,1,12.9,12.1,0.19,-2.9,-3.1,Matches
+23,Stuart Armstrong,sct SCO,MF,Southampton,27,1992,19.1,5,46,20,43.5,2.41,1.05,0.11,0.25,21.2,0,0,0,2.8,2.8,0.06,2.2,2.2,Matches
+24,Kepa Arrizabalaga,es ESP,GK,Chelsea,24,1994,33.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+25,Christian Atsu,gh GHA,"MF,FW",Newcastle Utd,27,1992,8.3,0,5,1,20.0,0.60,0.12,0.00,0.00,19.1,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+26,Pierre-Emerick Aubameyang,ga GAB,FW,Arsenal,30,1989,34.8,22,91,40,44.0,2.61,1.15,0.22,0.50,15.5,2,2,2,14.7,13.2,0.14,7.3,6.8,Matches
+27,Serge Aurier,ci CIV,DF,Tottenham,26,1992,30.0,1,13,4,30.8,0.43,0.13,0.08,0.25,19.1,0,0,0,0.5,0.5,0.04,0.5,0.5,Matches
+28,Jordan Ayew,gh GHA,FW,Crystal Palace,27,1991,35.0,9,58,24,41.4,1.66,0.69,0.16,0.38,14.8,0,0,0,7.5,7.5,0.13,1.5,1.5,Matches
+29,César Azpilicueta,es ESP,DF,Chelsea,29,1989,35.9,2,29,6,20.7,0.81,0.17,0.07,0.33,13.8,0,0,0,2.4,2.4,0.08,-0.4,-0.4,Matches
+30,Eric Bailly,ci CIV,DF,Manchester Utd,25,1994,1.7,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+31,Leighton Baines,eng ENG,DF,Everton,34,1984,4.5,0,1,0,0.0,0.22,0.00,0.00,,31.0,1,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+32,Fabián Balbuena,py PAR,DF,West Ham,27,1991,13.1,1,10,4,40.0,0.76,0.31,0.10,0.25,8.9,0,0,0,1.5,1.5,0.15,-0.5,-0.5,Matches
+33,George Baldock,gr GRE,DF,Sheffield Utd,26,1993,38.0,2,13,4,30.8,0.34,0.11,0.15,0.50,16.9,0,0,0,0.6,0.6,0.05,1.4,1.4,Matches
+34,Phil Bardsley,sct SCO,DF,Burnley,34,1985,21.0,0,11,4,36.4,0.52,0.19,0.00,0.00,25.4,0,0,0,0.3,0.3,0.03,-0.3,-0.3,Matches
+35,Ross Barkley,eng ENG,MF,Chelsea,25,1993,12.3,1,40,12,30.0,3.26,0.98,0.03,0.08,22.4,5,0,0,2.7,2.7,0.07,-1.7,-1.7,Matches
+36,Ashley Barnes,eng ENG,FW,Burnley,29,1989,15.0,6,39,11,28.2,2.60,0.73,0.13,0.45,15.9,0,1,1,6.2,5.4,0.14,-0.2,-0.4,Matches
+37,Harvey Barnes,eng ENG,"MF,FW",Leicester City,21,1997,23.1,6,61,28,45.9,2.64,1.21,0.10,0.21,16.7,0,0,0,8.1,8.1,0.13,-2.1,-2.1,Matches
+38,Chris Basham,eng ENG,DF,Sheffield Utd,31,1988,36.0,0,6,0,0.0,0.17,0.00,0.00,,13.5,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches
+39,Borja Bastón,es ESP,"MF,FW",Aston Villa,26,1992,0.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+40,Michy Batshuayi,be BEL,FW,Chelsea,25,1993,2.7,1,15,2,13.3,5.65,0.75,0.07,0.50,13.8,0,0,0,2.4,2.4,0.16,-1.4,-1.4,Matches
+41,Jan Bednarek,pl POL,DF,Southampton,23,1996,34.0,1,7,1,14.3,0.21,0.03,0.14,1.00,7.8,0,0,0,1.1,1.1,0.16,-0.1,-0.1,Matches
+42,Héctor Bellerín,es ESP,"DF,MF",Arsenal,24,1995,12.9,1,7,2,28.6,0.54,0.16,0.14,0.50,16.9,0,0,0,0.4,0.4,0.05,0.6,0.6,Matches
+43,Ryan Bennett,eng ENG,DF,Wolves,29,1990,6.7,0,1,0,0.0,0.15,0.00,0.00,,10.8,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+44,Ryan Bennett,eng ENG,DF,Leicester City,29,1990,3.7,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+45,Nabil Bentaleb,dz ALG,MF,Newcastle Utd,24,1994,8.3,0,4,0,0.0,0.48,0.00,0.00,,29.5,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+46,Christian Benteke,be BEL,FW,Crystal Palace,28,1990,14.0,2,41,19,46.3,2.93,1.36,0.05,0.11,13.2,0,0,0,5.1,5.1,0.12,-3.1,-3.1,Matches
+47,Jóhann Berg Guðmundsson,is ISL,MF,Burnley,28,1990,6.9,1,10,2,20.0,1.45,0.29,0.10,0.50,15.5,2,0,0,0.6,0.6,0.06,0.4,0.4,Matches
+48,Sander Berge,no NOR,MF,Sheffield Utd,21,1998,10.5,1,5,2,40.0,0.48,0.19,0.20,0.50,13.5,0,0,0,0.6,0.6,0.12,0.4,0.4,Matches
+49,Steven Bergwijn,nl NED,"FW,MF",Tottenham,21,1997,7.8,3,9,4,44.4,1.15,0.51,0.33,0.75,15.1,0,0,0,1.0,1.0,0.12,2.0,2.0,Matches
+50,Bernard,br BRA,"MF,FW",Everton,26,1992,14.2,3,12,5,41.7,0.84,0.35,0.25,0.60,16.6,1,0,0,1.8,1.8,0.15,1.2,1.2,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+51,Bernardo,br BRA,"DF,MF",Brighton,24,1995,7.5,0,7,2,28.6,0.93,0.27,0.00,0.00,17.6,0,0,0,0.5,0.5,0.07,-0.5,-0.5,Matches
+52,Ryan Bertrand,eng ENG,DF,Southampton,29,1989,30.5,1,18,3,16.7,0.59,0.10,0.06,0.33,19.4,1,0,0,1.7,1.7,0.10,-0.7,-0.7,Matches
+53,Muhamed Bešić,ba BIH,MF,Sheffield Utd,26,1992,2.8,0,4,2,50.0,1.44,0.72,0.00,0.00,20.9,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Matches
+54,Philip Billing,dk DEN,MF,Bournemouth,23,1996,28.1,1,33,8,24.2,1.17,0.28,0.03,0.13,20.7,1,0,0,2.0,2.0,0.06,-1.0,-1.0,Matches
+55,Yves Bissouma,ml MLI,MF,Brighton,22,1996,14.0,1,16,7,43.8,1.14,0.50,0.06,0.14,28.1,0,0,0,0.4,0.4,0.03,0.6,0.6,Matches
+56,Willy Boly,ci CIV,DF,Wolves,28,1991,22.0,0,5,3,60.0,0.23,0.14,0.00,0.00,11.6,0,0,0,0.4,0.4,0.09,-0.4,-0.4,Matches
+57,Gaëtan Bong,cm CMR,"DF,MF",Brighton,31,1988,0.7,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+58,Sofiane Boufal,ma MAR,"MF,FW",Southampton,25,1993,8.5,0,18,7,38.9,2.12,0.82,0.00,0.00,21.3,0,0,0,1.0,1.0,0.06,-1.0,-1.0,Matches
+59,Jarrod Bowen,eng ENG,"FW,MF",West Ham,22,1996,10.2,1,24,7,29.2,2.36,0.69,0.04,0.14,18.0,0,0,0,2.3,2.3,0.09,-1.3,-1.3,Matches
+60,Robbie Brady,ie IRL,MF,Burnley,27,1992,5.0,1,12,1,8.3,2.38,0.20,0.08,1.00,15.8,2,0,0,1.1,1.1,0.09,-0.1,-0.1,Matches
+61,Jarrad Branthwaite,eng ENG,DF,Everton,17,2002,3.3,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+62,Claudio Bravo,cl CHI,GK,Manchester City,36,1983,3.9,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+63,Armando Broja,al ALB,FW,Chelsea,17,2001,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+64,David Brooks,wls WAL,"MF,FW",Bournemouth,22,1997,5.6,1,6,2,33.3,1.07,0.36,0.17,0.50,23.9,1,0,0,0.5,0.5,0.08,0.5,0.5,Matches
+65,Josh Brownhill,eng ENG,MF,Burnley,23,1995,8.9,0,6,0,0.0,0.67,0.00,0.00,,18.9,1,0,0,0.5,0.5,0.09,-0.5,-0.5,Matches
+66,Emi Buendía,ar ARG,"FW,MF",Norwich City,22,1996,27.4,1,40,11,27.5,1.46,0.40,0.03,0.09,22.8,10,0,0,2.2,2.2,0.06,-1.2,-1.2,Matches
+67,Dan Burn,eng ENG,DF,Brighton,27,1992,32.0,0,12,0,0.0,0.37,0.00,0.00,,13.4,0,0,0,1.2,1.2,0.10,-1.2,-1.2,Matches
+68,Sam Byram,eng ENG,DF,Norwich City,25,1993,14.4,0,15,2,13.3,1.04,0.14,0.00,0.00,11.4,0,0,0,1.4,1.4,0.09,-1.4,-1.4,Matches
+69,Willy Caballero,ar ARG,GK,Chelsea,37,1981,5.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+70,Gary Cahill,eng ENG,DF,Crystal Palace,33,1985,24.1,0,21,5,23.8,0.87,0.21,0.00,0.00,12.3,0,0,0,1.6,1.6,0.07,-1.6,-1.6,Matches
+71,Dominic Calvert-Lewin,eng ENG,FW,Everton,22,1997,29.2,13,85,38,44.7,2.91,1.30,0.15,0.34,12.9,0,0,0,15.3,15.3,0.18,-2.3,-2.3,Matches
+72,Víctor Camarasa,es ESP,FW,Crystal Palace,25,1994,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+73,João Cancelo,pt POR,DF,Manchester City,25,1994,13.4,0,15,3,20.0,1.12,0.22,0.00,0.00,23.9,0,0,0,0.6,0.6,0.04,-0.6,-0.6,Matches
+74,Todd Cantwell,eng ENG,"FW,MF",Norwich City,21,1998,27.7,6,42,16,38.1,1.52,0.58,0.14,0.38,16.1,0,0,0,5.4,5.4,0.13,0.6,0.6,Matches
+75,Étienne Capoue,fr FRA,MF,Watford,31,1988,29.2,0,19,1,5.3,0.65,0.03,0.00,0.00,26.9,2,0,0,0.8,0.8,0.04,-0.8,-0.8,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+76,Andy Carroll,eng ENG,FW,Newcastle Utd,30,1989,7.0,0,16,3,18.8,2.28,0.43,0.00,0.00,14.3,0,0,0,1.2,1.2,0.08,-1.2,-1.2,Matches
+77,Jonny Castro,es ESP,"MF,DF",Wolves,25,1994,32.1,2,18,5,27.8,0.56,0.16,0.11,0.40,19.0,0,0,0,1.6,1.6,0.09,0.4,0.4,Matches
+78,Craig Cathcart,nir NIR,DF,Watford,30,1989,27.6,0,2,1,50.0,0.07,0.04,0.00,0.00,10.8,0,0,0,0.2,0.2,0.10,-0.2,-0.2,Matches
+79,Dani Ceballos,es ESP,MF,Arsenal,22,1996,18.8,0,13,3,23.1,0.69,0.16,0.00,0.00,22.8,0,0,0,0.6,0.6,0.04,-0.6,-0.6,Matches
+80,Nathaniel Chalobah,eng ENG,MF,Watford,24,1994,10.3,0,9,0,0.0,0.87,0.00,0.00,,23.3,2,0,0,0.5,0.5,0.05,-0.5,-0.5,Matches
+81,Calum Chambers,eng ENG,DF,Arsenal,24,1995,12.2,1,12,2,16.7,0.98,0.16,0.08,0.50,12.0,0,0,0,0.8,0.8,0.07,0.2,0.2,Matches
+82,Ben Chilwell,eng ENG,DF,Leicester City,22,1996,26.4,3,16,6,37.5,0.61,0.23,0.19,0.50,19.1,0,0,0,1.0,1.0,0.06,2.0,2.0,Matches
+83,Tahith Chong,nl NED,"FW,DF",Manchester Utd,19,1999,0.4,0,1,0,0.0,2.43,0.00,0.00,,14.1,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+84,Hamza Choudhury,eng ENG,MF,Leicester City,21,1997,9.9,1,7,2,28.6,0.71,0.20,0.14,0.50,16.2,0,0,0,0.4,0.4,0.05,0.6,0.6,Matches
+85,Andreas Christensen,dk DEN,DF,Chelsea,23,1996,19.5,0,7,2,28.6,0.36,0.10,0.00,0.00,12.7,0,0,0,0.5,0.5,0.07,-0.5,-0.5,Matches
+86,Ciaran Clark,ie IRL,DF,Newcastle Utd,29,1989,13.2,2,6,4,66.7,0.46,0.30,0.33,0.50,8.3,0,0,0,1.3,1.3,0.21,0.7,0.7,Matches
+87,Leon Clarke,eng ENG,"FW,MF",Sheffield Utd,34,1985,0.4,0,1,0,0.0,2.57,0.00,0.00,,9.6,0,0,0,0.5,0.5,0.46,-0.5,-0.5,Matches
+88,Tom Cleverley,eng ENG,MF,Watford,29,1989,10.8,1,17,5,29.4,1.58,0.46,0.06,0.20,17.8,0,0,0,2.1,2.1,0.12,-1.1,-1.1,Matches
+89,Conor Coady,eng ENG,DF,Wolves,26,1993,38.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+90,Séamus Coleman,ie IRL,DF,Everton,30,1988,20.4,0,8,3,37.5,0.39,0.15,0.00,0.00,16.0,0,0,0,0.9,0.9,0.12,-0.9,-0.9,Matches
+91,Aaron Connolly,ie IRL,FW,Brighton,19,2000,14.0,3,38,13,34.2,2.72,0.93,0.08,0.23,16.2,0,0,0,4.0,4.0,0.11,-1.0,-1.0,Matches
+92,Lewis Cook,eng ENG,"MF,FW",Bournemouth,22,1997,15.0,0,9,2,22.2,0.60,0.13,0.00,0.00,25.3,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches
+93,Steve Cook,eng ENG,DF,Bournemouth,28,1991,27.0,1,11,2,18.2,0.41,0.07,0.09,0.50,12.1,0,0,0,0.7,0.7,0.07,0.3,0.3,Matches
+94,Jack Cork,eng ENG,MF,Burnley,30,1989,29.0,0,18,5,27.8,0.62,0.17,0.00,0.00,15.1,0,0,0,2.0,2.0,0.11,-2.0,-2.0,Matches
+95,Aaron Cresswell,eng ENG,DF,West Ham,29,1989,30.3,3,17,5,29.4,0.56,0.17,0.18,0.60,21.7,7,0,0,1.4,1.4,0.08,1.6,1.6,Matches
+96,Patrick Cutrone,it ITA,FW,Wolves,21,1998,3.3,2,11,4,36.4,3.33,1.21,0.18,0.50,13.8,0,0,0,2.2,2.2,0.20,-0.2,-0.2,Matches
+97,Diogo Dalot,pt POR,"DF,MF",Manchester Utd,20,1999,0.7,0,1,0,0.0,1.34,0.00,0.00,,9.0,0,0,0,0.3,0.3,0.29,-0.3,-0.3,Matches
+98,Charlie Daniels,eng ENG,DF,Bournemouth,32,1986,1.4,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+99,Arnaut Danjuma,nl NED,MF,Bournemouth,22,1997,7.0,0,13,4,30.8,1.86,0.57,0.00,0.00,19.0,1,0,0,1.2,1.2,0.09,-1.2,-1.2,Matches
+100,Scott Dann,eng ENG,DF,Crystal Palace,32,1987,14.1,0,8,2,25.0,0.57,0.14,0.00,0.00,9.3,0,0,0,0.8,0.8,0.10,-0.8,-0.8,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+101,Kevin Danso,at AUT,DF,Southampton,20,1998,3.1,0,1,0,0.0,0.32,0.00,0.00,,10.5,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+102,Ben Davies,wls WAL,DF,Tottenham,26,1993,15.9,0,7,1,14.3,0.44,0.06,0.00,0.00,23.1,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Matches
+103,Tom Davies,eng ENG,MF,Everton,21,1998,22.5,1,17,5,29.4,0.75,0.22,0.06,0.20,17.1,0,0,0,1.6,1.6,0.09,-0.6,-0.6,Matches
+104,Keinan Davis,eng ENG,FW,Aston Villa,21,1998,6.1,0,17,5,29.4,2.79,0.82,0.00,0.00,9.6,0,0,0,2.7,2.7,0.16,-2.7,-2.7,Matches
+105,Craig Dawson,eng ENG,DF,Watford,29,1990,26.2,2,26,7,26.9,0.99,0.27,0.08,0.29,10.6,0,0,0,3.0,3.0,0.12,-1.0,-1.0,Matches
+106,Kevin De Bruyne,be BEL,MF,Manchester City,28,1991,31.0,13,97,29,29.9,3.13,0.94,0.11,0.38,21.8,11,2,2,7.3,5.8,0.06,5.7,5.2,Matches
+107,Troy Deeney,eng ENG,FW,Watford,31,1988,24.7,10,39,16,41.0,1.58,0.65,0.13,0.31,16.0,0,5,6,10.5,5.8,0.15,-0.5,-0.8,Matches
+108,Fabian Delph,eng ENG,MF,Everton,29,1989,13.2,0,3,0,0.0,0.23,0.00,0.00,,30.9,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches
+109,Leander Dendoncker,be BEL,"MF,DF",Wolves,24,1995,31.1,4,20,5,25.0,0.64,0.16,0.20,0.80,14.7,0,0,0,1.8,1.8,0.09,2.2,2.2,Matches
+110,Gerard Deulofeu,es ESP,FW,Watford,25,1994,23.3,4,63,20,31.7,2.70,0.86,0.05,0.15,18.8,8,1,1,6.3,5.5,0.09,-2.3,-2.5,Matches
+111,Eric Dier,eng ENG,"DF,MF",Tottenham,25,1994,14.9,0,8,1,12.5,0.54,0.07,0.00,0.00,15.6,1,0,0,0.9,0.9,0.11,-0.9,-0.9,Matches
+112,Lucas Digne,fr FRA,DF,Everton,26,1993,33.7,0,29,4,13.8,0.86,0.12,0.00,0.00,24.4,13,0,0,1.5,1.5,0.05,-1.5,-1.5,Matches
+113,Issa Diop,fr FRA,DF,West Ham,22,1997,30.7,3,15,6,40.0,0.49,0.20,0.20,0.50,9.2,0,0,0,1.5,1.5,0.10,1.5,1.5,Matches
+114,Moussa Djenepo,ml MLI,"MF,DF",Southampton,21,1998,10.3,2,20,7,35.0,1.94,0.68,0.10,0.29,18.1,0,0,0,2.4,2.4,0.12,-0.4,-0.4,Matches
+115,Matt Doherty,ie IRL,"MF,DF",Wolves,27,1992,31.5,4,35,15,42.9,1.11,0.48,0.11,0.27,11.2,0,0,0,6.9,6.9,0.20,-2.9,-2.9,Matches
+116,Abdoulaye Doucouré,ml MLI,MF,Watford,26,1993,35.1,4,61,12,19.7,1.74,0.34,0.07,0.33,18.3,0,0,0,5.2,5.2,0.08,-1.2,-1.2,Matches
+117,Tommy Doyle,eng ENG,MF,Manchester City,17,2001,0.2,0,1,1,100.0,5.63,5.63,0.00,0.00,20.9,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches
+118,Danny Drinkwater,eng ENG,MF,Aston Villa,29,1990,2.9,0,2,0,0.0,0.69,0.00,0.00,,18.3,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+119,Danny Drinkwater,eng ENG,MF,Burnley,29,1990,0.6,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+120,Josip Drmić,ch SUI,FW,Norwich City,26,1992,7.2,1,14,5,35.7,1.95,0.70,0.07,0.20,13.4,0,0,0,3.1,3.1,0.22,-2.1,-2.1,Matches
+121,Martin Dúbravka,sk SVK,GK,Newcastle Utd,30,1989,38.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+122,Ondrej Duda,sk SVK,MF,Norwich City,24,1994,8.0,0,10,3,30.0,1.24,0.37,0.00,0.00,22.1,2,0,0,0.5,0.5,0.05,-0.5,-0.5,Matches
+123,Shane Duffy,ie IRL,DF,Brighton,27,1992,13.8,1,7,1,14.3,0.51,0.07,0.14,1.00,10.9,0,0,0,1.2,1.2,0.17,-0.2,-0.2,Matches
+124,Paul Dummett,wls WAL,DF,Newcastle Utd,27,1991,13.6,0,2,2,100.0,0.15,0.15,0.00,0.00,20.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+125,Lewis Dunk,eng ENG,DF,Brighton,27,1991,35.9,3,31,10,32.3,0.86,0.28,0.10,0.30,11.8,5,0,0,4.5,4.5,0.15,-1.5,-1.5,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+126,Ederson,br BRA,GK,Manchester City,25,1993,34.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+127,John Egan,ie IRL,DF,Sheffield Utd,26,1992,35.4,2,27,4,14.8,0.76,0.11,0.07,0.50,9.4,0,0,0,2.7,2.7,0.10,-0.7,-0.7,Matches
+128,Harvey Elliott,eng ENG,DF,Liverpool,16,2003,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+129,Ahmed Elmohamady,eg EGY,DF,Aston Villa,31,1987,11.5,1,5,1,20.0,0.44,0.09,0.20,1.00,11.1,0,0,0,0.2,0.2,0.05,0.8,0.8,Matches
+130,Björn Engels,be BEL,DF,Aston Villa,24,1994,16.1,1,8,1,12.5,0.50,0.06,0.13,1.00,7.8,0,0,0,1.0,0.9,0.11,0.0,0.1,Matches
+131,Christian Eriksen,dk DEN,"MF,FW",Tottenham,27,1992,12.2,2,26,9,34.6,2.13,0.74,0.08,0.22,25.1,7,0,0,1.9,1.9,0.07,0.1,0.1,Matches
+132,Jonny Evans,nir NIR,DF,Leicester City,31,1988,37.6,1,23,8,34.8,0.61,0.21,0.04,0.13,8.4,0,0,0,3.7,3.7,0.16,-2.7,-2.7,Matches
+133,Łukasz Fabiański,pl POL,GK,West Ham,34,1985,23.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+134,Fabinho,br BRA,MF,Liverpool,25,1993,23.1,2,12,4,33.3,0.52,0.17,0.17,0.50,28.7,2,0,0,0.4,0.4,0.04,1.6,1.6,Matches
+135,Ralf Fährmann,de GER,GK,Norwich City,30,1988,0.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+136,Akin Famewo,eng ENG,MF,Norwich City,20,1998,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+137,Kiko Femenía,es ESP,DF,Watford,28,1991,24.9,0,5,1,20.0,0.20,0.04,0.00,0.00,27.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+138,Bruno Fernandes,pt POR,MF,Manchester Utd,24,1994,13.2,8,40,14,35.0,3.04,1.06,0.10,0.29,24.6,7,4,4,6.2,3.0,0.08,1.8,1.0,Matches
+139,Gedson Fernandes,pt POR,"MF,DF",Tottenham,20,1999,0.8,0,1,0,0.0,1.32,0.00,0.00,,26.4,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+140,Federico Fernández,ar ARG,DF,Newcastle Utd,30,1989,29.1,2,15,7,46.7,0.52,0.24,0.13,0.29,11.5,0,0,0,1.4,1.4,0.10,0.6,0.6,Matches
+141,Fernandinho,br BRA,DF,Manchester City,34,1985,26.6,0,17,2,11.8,0.64,0.08,0.00,0.00,14.9,0,0,0,1.0,1.0,0.06,-1.0,-1.0,Matches
+142,Roberto Firmino,br BRA,FW,Liverpool,27,1991,33.2,9,99,38,38.4,2.98,1.14,0.09,0.24,13.7,0,0,0,14.0,14.0,0.14,-5.0,-5.0,Matches
+143,John Fleck,sct SCO,MF,Sheffield Utd,27,1991,28.0,5,31,11,35.5,1.11,0.39,0.16,0.45,20.1,0,0,0,3.1,3.1,0.10,1.9,1.9,Matches
+144,Phil Foden,eng ENG,"FW,MF",Manchester City,19,2000,10.0,5,34,14,41.2,3.40,1.40,0.15,0.36,16.8,0,0,0,3.3,3.3,0.10,1.7,1.7,Matches
+145,Pablo Fornals,es ESP,"MF,FW",West Ham,23,1996,24.1,2,36,11,30.6,1.49,0.46,0.06,0.18,18.1,0,0,0,2.3,2.3,0.06,-0.3,-0.3,Matches
+146,Ben Foster,eng ENG,GK,Watford,36,1983,38.0,0,1,1,100.0,0.03,0.03,0.00,0.00,10.0,0,0,0,0.1,0.1,0.10,-0.1,-0.1,Matches
+147,Timothy Fosu-Mensah,nl NED,DF,Manchester Utd,21,1998,1.5,0,1,0,0.0,0.66,0.00,0.00,,11.2,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches
+148,Dimitri Foulquier,fr FRA,"DF,MF",Watford,26,1993,0.7,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+149,Juan Foyth,ar ARG,DF,Tottenham,21,1998,0.8,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+150,Simon Francis,eng ENG,DF,Bournemouth,34,1985,10.8,0,3,0,0.0,0.28,0.00,0.00,,12.5,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+151,Ryan Fraser,sct SCO,"MF,FW",Bournemouth,25,1994,23.0,1,27,11,40.7,1.18,0.48,0.04,0.09,17.2,2,0,0,3.7,3.7,0.14,-2.7,-2.7,Matches
+152,Fred,br BRA,MF,Manchester Utd,26,1993,24.0,0,40,10,25.0,1.66,0.42,0.00,0.00,24.5,3,0,0,1.7,1.7,0.04,-1.7,-1.7,Matches
+153,Ryan Fredericks,eng ENG,DF,West Ham,26,1992,24.9,0,3,0,0.0,0.12,0.00,0.00,,20.6,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+154,Kieron Freeman,wls WAL,FW,Sheffield Utd,27,1992,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+155,Luke Freeman,eng ENG,MF,Sheffield Utd,27,1992,4.1,0,3,0,0.0,0.74,0.00,0.00,,29.5,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+156,Christian Fuchs,at AUT,DF,Leicester City,33,1986,8.6,0,5,1,20.0,0.58,0.12,0.00,0.00,25.8,2,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches
+157,Eric García,es ESP,DF,Manchester City,18,2001,8.8,0,2,1,50.0,0.23,0.11,0.00,0.00,7.1,0,0,0,0.5,0.5,0.27,-0.5,-0.5,Matches
+158,James Garner,eng ENG,MF,Manchester Utd,18,2001,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+159,Dwight Gayle,eng ENG,FW,Newcastle Utd,28,1990,9.4,4,23,10,43.5,2.44,1.06,0.17,0.40,11.9,1,0,0,4.3,4.3,0.19,-0.3,-0.3,Matches
+160,Paulo Gazzaniga,ar ARG,GK,Tottenham,27,1992,17.9,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+161,Jean-Philippe Gbamin,ci CIV,MF,Everton,23,1995,1.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+162,David de Gea,es ESP,GK,Manchester Utd,28,1990,38.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+163,Anwar El Ghazi,nl NED,"FW,MF",Aston Villa,24,1995,22.8,4,51,19,37.3,2.24,0.83,0.06,0.16,18.9,5,1,1,6.2,5.4,0.11,-2.2,-2.4,Matches
+164,Morgan Gibbs-White,eng ENG,"MF,FW",Wolves,19,2000,1.4,0,2,0,0.0,1.40,0.00,0.00,,14.2,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+165,Billy Gilmour,sct SCO,MF,Chelsea,18,2001,2.2,0,1,0,0.0,0.46,0.00,0.00,,26.2,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+166,Olivier Giroud,fr FRA,FW,Chelsea,32,1986,11.0,8,39,19,48.7,3.53,1.72,0.21,0.42,11.5,1,0,0,7.3,7.3,0.19,0.7,0.7,Matches
+167,Ben Godfrey,eng ENG,DF,Norwich City,21,1998,29.4,0,15,6,40.0,0.51,0.20,0.00,0.00,18.2,0,0,0,0.7,0.7,0.05,-0.7,-0.7,Matches
+168,André Gomes,pt POR,MF,Everton,26,1993,16.2,0,5,0,0.0,0.31,0.00,0.00,,23.5,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Matches
+169,Angel Gomes,eng ENG,MF,Manchester Utd,18,2000,0.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+170,Joe Gomez,eng ENG,DF,Liverpool,22,1997,22.3,0,1,0,0.0,0.04,0.00,0.00,,30.4,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+171,Anthony Gordon,eng ENG,"MF,FW",Everton,18,2001,4.9,0,6,1,16.7,1.23,0.20,0.00,0.00,20.8,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches
+172,Dan Gosling,eng ENG,MF,Bournemouth,29,1990,14.0,3,13,6,46.2,0.93,0.43,0.23,0.50,11.6,0,0,0,2.9,2.9,0.22,0.1,0.1,Matches
+173,Andre Gray,jm JAM,FW,Watford,28,1991,8.4,2,19,6,31.6,2.26,0.72,0.11,0.33,12.7,0,0,0,2.4,2.4,0.13,-0.4,-0.4,Matches
+174,Demarai Gray,jm JAM,"MF,FW",Leicester City,23,1996,6.9,2,22,7,31.8,3.18,1.01,0.09,0.29,19.8,3,0,1,2.8,2.0,0.09,-0.8,0.0,Matches
+175,Jack Grealish,eng ENG,"FW,MF",Aston Villa,23,1995,35.9,8,72,23,31.9,2.00,0.64,0.11,0.35,18.5,1,0,1,6.8,6.0,0.08,1.2,2.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+176,Mason Greenwood,eng ENG,FW,Manchester Utd,17,2001,14.7,10,39,20,51.3,2.66,1.36,0.26,0.50,17.0,0,0,0,2.9,2.9,0.07,7.1,7.1,Matches
+177,Pascal Groß,de GER,"MF,FW",Brighton,28,1991,20.0,2,29,9,31.0,1.45,0.45,0.07,0.22,22.6,4,0,0,1.6,1.6,0.06,0.4,0.4,Matches
+178,Vicente Guaita,es ESP,GK,Crystal Palace,32,1987,35.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+179,Mattéo Guendouzi,fr FRA,MF,Arsenal,20,1999,19.4,0,11,5,45.5,0.57,0.26,0.00,0.00,22.2,0,0,0,0.8,0.8,0.07,-0.8,-0.8,Matches
+180,Frederic Guilbert,fr FRA,"DF,MF",Aston Villa,24,1994,22.7,0,8,3,37.5,0.35,0.13,0.00,0.00,21.8,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches
+181,İlkay Gündoğan,de GER,MF,Manchester City,28,1990,22.4,2,31,6,19.4,1.38,0.27,0.03,0.17,21.5,2,1,2,4.0,2.4,0.08,-2.0,-1.4,Matches
+182,Angus Gunn,sct SCO,GK,Southampton,23,1996,10.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+183,Sébastien Haller,ci CIV,FW,West Ham,25,1994,25.2,7,56,26,46.4,2.22,1.03,0.13,0.27,11.4,0,0,0,8.0,8.0,0.14,-1.0,-1.0,Matches
+184,Grant Hanley,sct SCO,DF,Norwich City,27,1991,14.0,0,8,2,25.0,0.57,0.14,0.00,0.00,10.3,0,0,0,0.6,0.6,0.08,-0.6,-0.6,Matches
+185,Kortney Hause,eng ENG,DF,Aston Villa,24,1995,17.2,1,20,3,15.0,1.17,0.17,0.05,0.33,8.3,0,0,0,2.5,2.5,0.13,-1.5,-1.5,Matches
+186,Isaac Hayden,eng ENG,MF,Newcastle Utd,24,1995,24.7,1,18,3,16.7,0.73,0.12,0.06,0.33,20.9,0,0,0,1.2,1.2,0.07,-0.2,-0.2,Matches
+187,Tom Heaton,eng ENG,GK,Aston Villa,33,1986,19.9,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+188,Dean Henderson,eng ENG,GK,Sheffield Utd,22,1997,36.0,0,1,0,0.0,0.03,0.00,0.00,,9.5,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+189,Jordan Henderson,eng ENG,MF,Liverpool,29,1990,24.9,4,20,8,40.0,0.80,0.32,0.20,0.50,19.2,1,0,0,1.1,1.1,0.05,2.9,2.9,Matches
+190,Jeff Hendrick,ie IRL,MF,Burnley,27,1992,21.5,2,22,6,27.3,1.03,0.28,0.09,0.33,18.9,1,0,0,1.7,1.7,0.08,0.3,0.3,Matches
+191,Wayne Hennessey,wls WAL,GK,Crystal Palace,32,1987,3.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+192,Javier Hernández,mx MEX,FW,West Ham,31,1988,1.2,1,3,2,66.7,2.52,1.68,0.33,0.50,17.3,1,0,0,1.0,1.0,0.33,0.0,0.0,Matches
+193,Onel Hernández,cu CUB,"FW,MF",Norwich City,26,1993,15.4,1,29,8,27.6,1.89,0.52,0.03,0.13,18.2,0,0,0,2.2,2.2,0.08,-1.2,-1.2,Matches
+194,Son Heung-min,kr KOR,FW,Tottenham,27,1992,27.5,11,80,37,46.3,2.91,1.34,0.14,0.30,17.2,1,0,1,8.9,8.0,0.10,2.1,3.0,Matches
+195,George Hirst,eng ENG,"MF,DF",Leicester City,20,1999,0.1,0,3,1,33.3,24.55,8.18,0.00,0.00,13.4,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+196,Rob Holding,eng ENG,DF,Arsenal,23,1995,6.5,0,2,0,0.0,0.31,0.00,0.00,,6.3,0,0,0,0.2,0.2,0.11,-0.2,-0.2,Matches
+197,José Holebas,gr GRE,DF,Watford,35,1984,11.4,0,6,3,50.0,0.53,0.26,0.00,0.00,19.8,1,0,0,0.3,0.3,0.06,-0.3,-0.3,Matches
+198,Mason Holgate,eng ENG,DF,Everton,22,1996,22.8,0,11,5,45.5,0.48,0.22,0.00,0.00,15.0,0,0,0,1.7,1.7,0.16,-1.7,-1.7,Matches
+199,Nathan Holland,eng ENG,MF,West Ham,21,1998,0.4,0,1,1,100.0,2.73,2.73,0.00,0.00,28.7,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+200,Conor Hourihane,ie IRL,MF,Aston Villa,28,1991,17.0,3,29,10,34.5,1.70,0.59,0.10,0.30,21.4,6,0,0,1.7,1.7,0.06,1.3,1.3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+201,Callum Hudson-Odoi,eng ENG,"FW,MF",Chelsea,18,2000,9.6,1,21,4,19.0,2.19,0.42,0.05,0.25,18.3,0,0,0,1.9,1.9,0.09,-0.9,-0.9,Matches
+202,Will Hughes,eng ENG,MF,Watford,24,1995,25.0,1,27,3,11.1,1.08,0.12,0.04,0.33,19.3,0,0,0,2.3,2.3,0.08,-1.3,-1.3,Matches
+203,Pierre Højbjerg,dk DEN,MF,Southampton,23,1995,30.6,0,46,11,23.9,1.50,0.36,0.00,0.00,22.0,0,0,0,3.2,3.2,0.07,-3.2,-3.2,Matches
+204,Jordon Ibe,eng ENG,DF,Bournemouth,23,1995,0.6,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+205,Adam Idah,ie IRL,"FW,MF",Norwich City,18,2001,2.5,0,6,2,33.3,2.37,0.79,0.00,0.00,17.5,0,0,0,1.0,1.0,0.17,-1.0,-1.0,Matches
+206,Odion Ighalo,ng NGA,FW,Manchester Utd,30,1989,1.1,0,7,3,42.9,6.24,2.67,0.00,0.00,11.7,0,0,0,1.9,1.9,0.27,-1.9,-1.9,Matches
+207,Kelechi Iheanacho,ng NGA,FW,Leicester City,22,1996,10.7,5,36,20,55.6,3.38,1.87,0.14,0.25,15.4,0,0,0,6.0,6.0,0.17,-1.0,-1.0,Matches
+208,Danny Ings,eng ENG,FW,Southampton,27,1992,31.2,22,91,35,38.5,2.92,1.12,0.23,0.60,13.9,0,1,2,16.2,14.7,0.16,5.8,6.3,Matches
+209,Alex Iwobi,ng NGA,"MF,FW",Everton,23,1996,17.7,1,23,10,43.5,1.30,0.56,0.04,0.10,17.3,0,0,0,2.5,2.5,0.11,-1.5,-1.5,Matches
+210,Phil Jagielka,eng ENG,DF,Sheffield Utd,36,1982,2.7,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+211,Alireza Jahanbakhsh,ir IRN,"FW,MF",Brighton,25,1993,3.5,2,12,2,16.7,3.47,0.58,0.17,1.00,19.2,0,0,0,0.6,0.6,0.05,1.4,1.4,Matches
+212,Daniel James,wls WAL,FW,Manchester Utd,21,1997,25.4,3,42,20,47.6,1.65,0.79,0.07,0.15,17.3,0,0,0,3.1,3.1,0.07,-0.1,-0.1,Matches
+213,Matty James,eng ENG,MF,Leicester City,28,1991,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+214,Reece James,eng ENG,DF,Chelsea,19,1999,16.8,0,18,3,16.7,1.07,0.18,0.00,0.00,20.7,0,0,0,0.8,0.8,0.04,-0.8,-0.8,Matches
+215,Daryl Janmaat,nl NED,DF,Watford,30,1989,6.7,0,4,0,0.0,0.59,0.00,0.00,,17.6,0,0,0,0.3,0.3,0.07,-0.3,-0.3,Matches
+216,Gabriel Jesus,br BRA,FW,Manchester City,22,1997,22.6,14,100,45,45.0,4.43,2.00,0.14,0.31,11.6,0,0,1,18.2,17.4,0.18,-4.2,-3.4,Matches
+217,Raúl Jiménez,mx MEX,FW,Wolves,28,1991,36.0,17,114,39,34.2,3.17,1.08,0.11,0.33,15.4,0,4,4,16.6,13.4,0.12,0.4,-0.4,Matches
+218,João Pedro,br BRA,"FW,MF",Watford,17,2001,0.3,0,1,0,0.0,3.60,0.00,0.00,,17.3,0,0,0,0.0,0.0,0.05,0.0,0.0,Matches
+219,Joelinton,br BRA,FW,Newcastle Utd,22,1996,29.8,2,50,15,30.0,1.68,0.50,0.04,0.13,14.9,0,0,0,5.5,5.5,0.11,-3.5,-3.5,Matches
+220,Ben Johnson,eng ENG,DF,West Ham,19,2000,3.0,0,1,0,0.0,0.33,0.00,0.00,,28.8,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches
+221,Curtis Jones,eng ENG,MF,Liverpool,18,2001,1.4,1,6,2,33.3,4.29,1.43,0.17,0.50,17.4,0,0,0,0.4,0.4,0.07,0.6,0.6,Matches
+222,Phil Jones,eng ENG,DF,Manchester Utd,27,1992,1.5,0,2,1,50.0,1.33,0.67,0.00,0.00,10.5,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches
+223,Bruno Jordão,pt POR,FW,Wolves,20,1998,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+224,Jorginho,it ITA,MF,Chelsea,27,1991,26.4,4,9,1,11.1,0.34,0.04,0.11,1.00,24.7,0,3,3,3.2,0.9,0.10,0.8,0.1,Matches
+225,Jota,es ESP,"FW,MF",Aston Villa,28,1991,3.7,0,6,1,16.7,1.61,0.27,0.00,0.00,18.9,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+226,Diogo Jota,pt POR,FW,Wolves,22,1996,25.4,7,69,26,37.7,2.72,1.02,0.10,0.27,14.2,0,0,0,11.5,11.5,0.17,-4.5,-4.5,Matches
+227,James Justin,eng ENG,"DF,MF",Leicester City,21,1998,11.2,0,7,0,0.0,0.62,0.00,0.00,,20.2,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches
+228,Christian Kabasele,be BEL,DF,Watford,28,1991,25.0,0,9,1,11.1,0.36,0.04,0.00,0.00,10.4,0,0,0,0.9,0.9,0.10,-0.9,-0.9,Matches
+229,Harry Kane,eng ENG,FW,Tottenham,26,1993,28.7,18,79,35,44.3,2.75,1.22,0.20,0.46,19.2,7,2,2,12.5,10.9,0.14,5.5,5.1,Matches
+230,N'Golo Kanté,fr FRA,MF,Chelsea,28,1991,19.2,3,18,6,33.3,0.94,0.31,0.17,0.50,21.2,0,0,0,1.4,1.4,0.08,1.6,1.6,Matches
+231,Moise Kean,it ITA,FW,Everton,19,2000,9.5,2,30,13,43.3,3.17,1.37,0.07,0.15,16.1,0,0,0,4.0,4.0,0.13,-2.0,-2.0,Matches
+232,Michael Keane,eng ENG,DF,Everton,26,1993,28.4,2,14,4,28.6,0.49,0.14,0.14,0.50,7.8,0,0,0,1.9,1.9,0.13,0.1,0.1,Matches
+233,Naby Keïta,gn GUI,MF,Liverpool,24,1995,9.1,2,12,7,58.3,1.33,0.77,0.17,0.29,19.3,0,0,0,1.6,1.6,0.14,0.4,0.4,Matches
+234,Lloyd Kelly,eng ENG,DF,Bournemouth,20,1998,7.1,0,1,0,0.0,0.14,0.00,0.00,,21.6,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+235,Martin Kelly,eng ENG,DF,Crystal Palace,29,1990,17.2,0,2,0,0.0,0.12,0.00,0.00,,20.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+236,Max Kilman,eng ENG,DF,Wolves,22,1997,2.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+237,Joshua King,no NOR,"FW,MF",Bournemouth,27,1992,22.3,6,23,10,43.5,1.03,0.45,0.13,0.30,14.4,0,3,3,6.5,4.1,0.18,-0.5,-1.1,Matches
+238,Timm Klose,ch SUI,DF,Norwich City,31,1988,6.5,0,3,0,0.0,0.46,0.00,0.00,,12.2,0,0,0,0.2,0.2,0.07,-0.2,-0.2,Matches
+239,Jonathan Kodjia,ci CIV,FW,Aston Villa,29,1989,1.3,0,2,0,0.0,1.54,0.00,0.00,,19.5,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+240,Sead Kolašinac,ba BIH,DF,Arsenal,26,1993,18.9,0,4,0,0.0,0.21,0.00,0.00,,12.2,0,0,0,0.4,0.4,0.10,-0.4,-0.4,Matches
+241,Ezri Konsa,eng ENG,DF,Aston Villa,21,1997,22.7,1,11,4,36.4,0.49,0.18,0.09,0.25,13.0,0,0,0,1.5,1.5,0.13,-0.5,-0.5,Matches
+242,Cheikhou Kouyaté,sn SEN,"MF,DF",Crystal Palace,29,1989,28.1,1,24,4,16.7,0.85,0.14,0.04,0.25,12.0,0,0,0,2.7,2.7,0.11,-1.7,-1.7,Matches
+243,Mateo Kovačić,hr CRO,MF,Chelsea,25,1994,23.0,1,21,5,23.8,0.91,0.22,0.05,0.20,20.3,0,0,0,0.9,0.9,0.04,0.1,0.1,Matches
+244,Emil Krafth,se SWE,DF,Newcastle Utd,24,1994,11.3,0,4,0,0.0,0.35,0.00,0.00,,13.5,0,0,0,0.3,0.3,0.08,-0.3,-0.3,Matches
+245,Tim Krul,nl NED,GK,Norwich City,31,1988,36.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+246,Alexandre Lacazette,fr FRA,FW,Arsenal,28,1991,20.8,10,52,26,50.0,2.50,1.25,0.19,0.38,12.6,3,0,0,8.1,8.1,0.17,1.9,1.9,Matches
+247,Adam Lallana,eng ENG,"MF,FW",Liverpool,31,1988,4.2,1,5,1,20.0,1.18,0.24,0.20,1.00,16.3,0,0,0,0.8,0.8,0.15,0.2,0.2,Matches
+248,Érik Lamela,ar ARG,"MF,FW",Tottenham,27,1992,13.5,2,29,8,27.6,2.15,0.59,0.07,0.25,19.5,4,0,0,2.9,2.9,0.11,-0.9,-0.9,Matches
+249,Tariq Lamptey,gh GHA,DF,Chelsea,18,2000,0.4,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+250,Tariq Lamptey,gh GHA,DF,Brighton,18,2000,6.5,0,2,0,0.0,0.31,0.00,0.00,,25.3,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+251,Henri Lansbury,eng ENG,MF,Aston Villa,28,1990,2.2,0,2,0,0.0,0.92,0.00,0.00,,21.0,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches
+252,Manuel Lanzini,ar ARG,"MF,FW",West Ham,26,1993,15.3,0,23,7,30.4,1.50,0.46,0.00,0.00,19.0,3,0,0,2.2,2.2,0.09,-2.2,-2.2,Matches
+253,Aymeric Laporte,es ESP,DF,Manchester City,25,1994,12.2,1,4,2,50.0,0.33,0.16,0.25,0.50,16.3,0,0,0,0.5,0.5,0.13,0.5,0.5,Matches
+254,Jamaal Lascelles,eng ENG,DF,Newcastle Utd,25,1993,23.1,1,9,2,22.2,0.39,0.09,0.11,0.50,12.9,0,0,0,0.5,0.5,0.06,0.5,0.5,Matches
+255,Valentino Lazaro,at AUT,"DF,MF",Newcastle Utd,23,1996,5.3,1,4,1,25.0,0.75,0.19,0.25,1.00,21.9,0,0,0,0.4,0.4,0.10,0.6,0.6,Matches
+256,Moritz Leitner,de GER,MF,Norwich City,26,1992,7.6,0,8,0,0.0,1.05,0.00,0.00,,23.1,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches
+257,Florian Lejeune,fr FRA,DF,Newcastle Utd,28,1991,4.9,2,4,3,75.0,0.81,0.61,0.50,0.67,14.4,0,0,0,1.2,1.2,0.30,0.8,0.8,Matches
+258,Aaron Lennon,eng ENG,MF,Burnley,32,1987,5.5,0,1,0,0.0,0.18,0.00,0.00,,14.7,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches
+259,Bernd Leno,de GER,GK,Arsenal,27,1992,29.4,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+260,Jefferson Lerma,co COL,MF,Bournemouth,24,1994,30.0,1,30,2,6.7,1.00,0.07,0.03,0.50,24.3,0,0,0,1.2,1.2,0.04,-0.2,-0.2,Matches
+261,Jamal Lewis,nir NIR,DF,Norwich City,21,1998,25.6,1,9,4,44.4,0.35,0.16,0.11,0.25,21.8,0,0,0,0.4,0.4,0.04,0.6,0.6,Matches
+262,Victor Lindelöf,se SWE,DF,Manchester Utd,25,1994,34.4,1,6,1,16.7,0.17,0.03,0.17,1.00,11.4,0,0,0,0.3,0.3,0.06,0.7,0.7,Matches
+263,Jesse Lingard,eng ENG,"MF,FW",Manchester Utd,26,1992,10.4,1,22,6,27.3,2.12,0.58,0.05,0.17,18.7,0,0,0,1.9,1.9,0.09,-0.9,-0.9,Matches
+264,Hugo Lloris,fr FRA,GK,Tottenham,32,1986,20.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+265,Giovani Lo Celso,ar ARG,"MF,FW",Tottenham,23,1996,16.6,0,18,3,16.7,1.09,0.18,0.00,0.00,22.0,1,0,0,1.3,1.3,0.07,-1.3,-1.3,Matches
+266,Jürgen Locadia,nl NED,"FW,MF",Brighton,25,1993,1.0,0,2,1,50.0,2.09,1.05,0.00,0.00,9.9,0,0,0,0.3,0.3,0.13,-0.3,-0.3,Matches
+267,Ruben Loftus-Cheek,eng ENG,"MF,FW",Chelsea,23,1996,2.3,0,4,0,0.0,1.73,0.00,0.00,,9.6,0,0,0,0.5,0.5,0.12,-0.5,-0.5,Matches
+268,Kevin Long,ie IRL,DF,Burnley,28,1990,6.3,0,2,0,0.0,0.32,0.00,0.00,,11.9,0,0,0,0.2,0.2,0.09,-0.2,-0.2,Matches
+269,Shane Long,ie IRL,FW,Southampton,32,1987,15.5,2,33,13,39.4,2.13,0.84,0.06,0.15,11.3,0,0,0,4.8,4.8,0.15,-2.8,-2.8,Matches
+270,Matthew Longstaff,eng ENG,MF,Newcastle Utd,19,2000,6.4,2,4,2,50.0,0.63,0.31,0.50,1.00,20.4,0,0,0,0.3,0.3,0.07,1.7,1.7,Matches
+271,Sean Longstaff,eng ENG,MF,Newcastle Utd,21,1997,15.3,1,25,7,28.0,1.63,0.46,0.04,0.14,24.8,3,0,0,1.4,1.4,0.05,-0.4,-0.4,Matches
+272,Dejan Lovren,hr CRO,DF,Liverpool,30,1989,8.6,0,5,1,20.0,0.58,0.12,0.00,0.00,8.6,0,0,0,0.4,0.4,0.08,-0.4,-0.4,Matches
+273,Matthew Lowton,eng ENG,DF,Burnley,30,1989,17.0,0,1,0,0.0,0.06,0.00,0.00,,24.4,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+274,David Luiz,br BRA,DF,Arsenal,32,1987,31.2,2,23,8,34.8,0.74,0.26,0.09,0.25,20.4,7,0,0,1.6,1.6,0.07,0.4,0.4,Matches
+275,Douglas Luiz,br BRA,MF,Aston Villa,21,1998,29.0,3,38,12,31.6,1.31,0.41,0.08,0.25,24.0,3,0,0,2.6,2.6,0.07,0.4,0.4,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+276,John Lundstram,eng ENG,MF,Sheffield Utd,25,1994,27.3,5,43,10,23.3,1.57,0.37,0.12,0.50,17.6,0,0,0,5.3,5.3,0.12,-0.3,-0.3,Matches
+277,Alexis Mac Allister,ar ARG,"MF,FW",Brighton,20,1998,3.9,0,7,1,14.3,1.79,0.26,0.00,0.00,22.5,1,0,0,0.5,0.5,0.07,-0.5,-0.5,Matches
+278,James Maddison,eng ENG,MF,Leicester City,22,1996,29.2,6,74,18,24.3,2.54,0.62,0.08,0.33,22.0,14,0,0,5.3,5.3,0.07,0.7,0.7,Matches
+279,Harry Maguire,eng ENG,DF,Manchester Utd,26,1993,38.0,1,31,8,25.8,0.82,0.21,0.03,0.13,12.7,0,0,0,2.1,2.1,0.07,-1.1,-1.1,Matches
+280,Riyad Mahrez,dz ALG,"FW,MF",Manchester City,28,1991,21.6,11,73,30,41.1,3.38,1.39,0.14,0.33,17.0,6,1,1,7.8,7.0,0.10,3.2,3.0,Matches
+281,Ainsley Maitland-Niles,eng ENG,DF,Arsenal,21,1997,15.4,0,4,1,25.0,0.26,0.06,0.00,0.00,18.0,0,0,0,0.4,0.4,0.11,-0.4,-0.4,Matches
+282,Sadio Mané,sn SEN,FW,Liverpool,27,1992,30.5,18,77,36,46.8,2.52,1.18,0.23,0.50,13.5,0,0,0,13.2,13.2,0.18,4.8,4.8,Matches
+283,Javier Manquillo,es ESP,DF,Newcastle Utd,25,1994,17.8,0,1,0,0.0,0.06,0.00,0.00,,11.8,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches
+284,Solly March,eng ENG,"FW,MF",Brighton,25,1994,12.7,0,21,8,38.1,1.65,0.63,0.00,0.00,18.5,1,0,0,1.4,1.4,0.07,-1.4,-1.4,Matches
+285,Pablo Marí,es ESP,DF,Arsenal,25,1993,1.3,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+286,Adrian Mariappa,jm JAM,DF,Watford,32,1986,16.8,0,3,0,0.0,0.18,0.00,0.00,,11.1,0,0,0,0.2,0.2,0.08,-0.2,-0.2,Matches
+287,Anthony Martial,fr FRA,FW,Manchester Utd,23,1995,29.2,17,79,38,48.1,2.71,1.30,0.22,0.45,16.5,0,0,1,12.1,11.3,0.14,4.9,5.7,Matches
+288,David Martin,eng ENG,GK,West Ham,33,1986,4.8,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+289,Josh Martin,eng ENG,"FW,MF",Norwich City,17,2001,0.4,0,1,1,100.0,2.43,2.43,0.00,0.00,13.0,0,0,0,0.1,0.1,0.08,-0.1,-0.1,Matches
+290,Gabriel Martinelli,br BRA,FW,Arsenal,18,2001,7.4,3,12,5,41.7,1.63,0.68,0.25,0.60,12.9,0,0,0,2.2,2.2,0.18,0.8,0.8,Matches
+291,Emiliano Martínez,ar ARG,GK,Arsenal,26,1992,8.6,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+292,Adam Masina,ma MAR,DF,Watford,25,1994,20.2,1,15,3,20.0,0.74,0.15,0.07,0.33,21.1,1,0,0,0.9,0.9,0.06,0.1,0.1,Matches
+293,Arthur Masuaku,cd COD,DF,West Ham,25,1993,10.4,0,5,2,40.0,0.48,0.19,0.00,0.00,27.7,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches
+294,Juan Mata,es ESP,"MF,FW",Manchester Utd,31,1988,8.4,0,10,2,20.0,1.19,0.24,0.00,0.00,18.5,2,0,0,1.1,1.1,0.11,-1.1,-1.1,Matches
+295,Nemanja Matić,rs SRB,MF,Manchester Utd,30,1988,17.6,0,7,2,28.6,0.40,0.11,0.00,0.00,26.2,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Matches
+296,Joël Matip,cm CMR,DF,Liverpool,27,1991,7.8,1,4,1,25.0,0.51,0.13,0.25,1.00,10.2,0,0,0,0.3,0.3,0.09,0.7,0.7,Matches
+297,Neal Maupay,fr FRA,FW,Brighton,22,1996,30.7,10,94,36,38.3,3.06,1.17,0.10,0.25,15.5,0,1,2,13.4,11.8,0.13,-3.4,-2.8,Matches
+298,James McArthur,sct SCO,MF,Crystal Palace,31,1987,34.3,0,28,6,21.4,0.82,0.17,0.00,0.00,18.5,0,0,0,2.0,2.0,0.07,-2.0,-2.0,Matches
+299,Oliver McBurnie,sct SCO,FW,Sheffield Utd,23,1996,23.5,6,50,24,48.0,2.13,1.02,0.12,0.25,10.3,0,0,0,7.7,7.7,0.15,-1.7,-1.7,Matches
+300,Alex McCarthy,eng ENG,GK,Southampton,29,1989,28.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+301,James McCarthy,ie IRL,MF,Crystal Palace,28,1990,18.7,0,12,3,25.0,0.64,0.16,0.00,0.00,22.2,0,0,0,0.5,0.5,0.04,-0.5,-0.5,Matches
+302,John McGinn,sct SCO,MF,Aston Villa,24,1994,25.7,3,55,20,36.4,2.14,0.78,0.05,0.15,21.3,1,0,0,3.9,3.9,0.07,-0.9,-0.9,Matches
+303,David McGoldrick,ie IRL,FW,Sheffield Utd,31,1987,20.2,2,46,20,43.5,2.28,0.99,0.04,0.10,14.5,0,0,0,8.0,8.0,0.17,-6.0,-6.0,Matches
+304,Michael McGovern,nir NIR,GK,Norwich City,35,1984,1.8,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+305,Kenny McLean,sct SCO,MF,Norwich City,27,1992,33.0,1,30,10,33.3,0.91,0.30,0.03,0.10,21.6,2,0,0,1.4,1.4,0.05,-0.4,-0.4,Matches
+306,Dwight McNeil,eng ENG,MF,Burnley,19,1999,37.1,2,48,14,29.2,1.29,0.38,0.04,0.14,24.0,10,0,0,2.3,2.3,0.05,-0.3,-0.3,Matches
+307,Scott McTominay,sct SCO,MF,Manchester Utd,22,1996,19.7,4,29,10,34.5,1.47,0.51,0.14,0.40,20.9,0,0,0,2.2,2.2,0.08,1.8,1.8,Matches
+308,Ben Mee,eng ENG,DF,Burnley,29,1989,32.0,1,17,6,35.3,0.53,0.19,0.06,0.17,9.0,0,0,0,1.7,1.7,0.10,-0.7,-0.7,Matches
+309,Benjamin Mendy,fr FRA,DF,Manchester City,25,1994,16.6,0,10,1,10.0,0.60,0.06,0.00,0.00,22.5,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Matches
+310,Nampalys Mendy,sn SEN,MF,Leicester City,27,1992,3.2,0,1,1,100.0,0.31,0.31,0.00,0.00,28.9,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+311,Chris Mepham,wls WAL,DF,Bournemouth,21,1997,10.1,1,7,2,28.6,0.69,0.20,0.14,0.50,10.5,0,0,0,0.9,0.9,0.13,0.1,0.1,Matches
+312,Max Meyer,de GER,"MF,FW",Crystal Palace,23,1995,7.3,0,9,2,22.2,1.24,0.27,0.00,0.00,17.8,0,0,0,0.5,0.5,0.06,-0.5,-0.5,Matches
+313,Luka Milivojević,rs SRB,MF,Crystal Palace,28,1991,27.9,3,29,7,24.1,1.04,0.25,0.03,0.14,28.4,11,2,2,2.7,1.2,0.04,0.3,-0.2,Matches
+314,James Milner,eng ENG,"MF,DF",Liverpool,33,1986,10.4,2,10,2,20.0,0.96,0.19,0.00,0.00,24.5,0,2,2,2.2,0.6,0.06,-0.2,-0.6,Matches
+315,Yerry Mina,co COL,DF,Everton,24,1994,25.4,2,29,11,37.9,1.14,0.43,0.07,0.18,10.7,0,0,0,3.4,3.4,0.12,-1.4,-1.4,Matches
+316,Takumi Minamino,jp JPN,"FW,MF",Liverpool,24,1995,2.8,0,8,2,25.0,2.89,0.72,0.00,0.00,19.5,0,0,0,0.8,0.8,0.10,-0.8,-0.8,Matches
+317,Tyrone Mings,eng ENG,DF,Aston Villa,26,1993,32.2,2,8,3,37.5,0.25,0.09,0.25,0.67,9.9,0,0,0,0.8,0.8,0.10,1.2,1.2,Matches
+318,Tyrick Mitchell,eng ENG,DF,Crystal Palace,19,1999,2.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+319,Henrikh Mkhitaryan,am ARM,FW,Arsenal,30,1989,1.2,0,2,0,0.0,1.61,0.00,0.00,,13.5,0,0,0,0.3,0.3,0.16,-0.3,-0.3,Matches
+320,Nacho Monreal,es ESP,DF,Arsenal,33,1986,3.0,0,1,0,0.0,0.33,0.00,0.00,,9.8,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches
+321,Martín Montoya,es ESP,"DF,MF",Brighton,28,1991,21.1,0,8,3,37.5,0.38,0.14,0.00,0.00,16.1,0,0,0,1.5,1.5,0.18,-1.5,-1.5,Matches
+322,Simon Moore,eng ENG,GK,Sheffield Utd,29,1990,2.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+323,Aaron Mooy,au AUS,"MF,FW",Brighton,28,1990,23.2,2,33,8,24.2,1.42,0.35,0.06,0.25,20.9,0,0,0,2.3,2.3,0.07,-0.3,-0.3,Matches
+324,Wesley Moraes,br BRA,FW,Aston Villa,22,1996,19.8,5,34,17,50.0,1.72,0.86,0.15,0.29,12.6,0,0,1,6.4,5.5,0.16,-1.4,-0.5,Matches
+325,Wes Morgan,jm JAM,DF,Leicester City,35,1984,4.8,0,4,2,50.0,0.83,0.41,0.00,0.00,10.0,0,0,0,0.5,0.5,0.14,-0.5,-0.5,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+326,Ravel Morrison,jm JAM,MF,Sheffield Utd,26,1993,0.1,0,1,0,0.0,6.92,0.00,0.00,,12.9,0,0,0,0.0,0.0,0.05,0.0,0.0,Matches
+327,Mason Mount,eng ENG,"MF,FW",Chelsea,20,1999,31.9,7,78,29,37.2,2.45,0.91,0.09,0.24,20.6,12,0,0,6.4,6.4,0.08,0.6,0.6,Matches
+328,Lucas Moura,br BRA,"FW,MF",Tottenham,26,1992,24.9,4,56,14,25.0,2.25,0.56,0.07,0.29,17.5,0,0,0,5.6,5.6,0.10,-1.6,-1.6,Matches
+329,Lys Mousset,fr FRA,FW,Sheffield Utd,23,1996,13.8,6,37,9,24.3,2.69,0.65,0.16,0.67,16.2,0,0,0,5.5,5.5,0.15,0.5,0.5,Matches
+330,João Moutinho,pt POR,MF,Wolves,32,1986,34.5,1,22,6,27.3,0.64,0.17,0.05,0.17,25.0,4,0,0,0.9,0.9,0.04,0.1,0.1,Matches
+331,Glenn Murray,eng ENG,FW,Brighton,35,1983,8.9,1,18,5,27.8,2.03,0.56,0.06,0.20,13.9,0,0,0,2.4,2.4,0.13,-1.4,-1.4,Matches
+332,Shkodran Mustafi,de GER,DF,Arsenal,27,1992,13.4,0,11,3,27.3,0.82,0.22,0.00,0.00,9.4,0,0,0,0.9,0.9,0.08,-0.9,-0.9,Matches
+333,Yoshinori Mutō,jp JPN,"MF,FW",Newcastle Utd,27,1992,2.4,0,1,0,0.0,0.42,0.00,0.00,,10.0,0,0,0,0.1,0.1,0.08,-0.1,-0.1,Matches
+334,Georges-Kévin N'Koudou,cm CMR,FW,Tottenham,24,1995,0.0,0,1,0,0.0,30.00,0.00,0.00,,17.7,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches
+335,Marvelous Nakamba,zw ZIM,MF,Aston Villa,25,1994,20.4,0,7,1,14.3,0.34,0.05,0.00,0.00,29.6,0,0,0,0.2,0.2,0.02,-0.2,-0.2,Matches
+336,Wilfred Ndidi,ng NGA,MF,Leicester City,22,1996,29.7,2,26,3,11.5,0.88,0.10,0.08,0.67,19.2,0,0,0,1.6,1.6,0.06,0.4,0.4,Matches
+337,Tanguy Ndombele,fr FRA,MF,Tottenham,22,1996,11.2,2,9,4,44.4,0.80,0.36,0.22,0.50,25.6,0,0,0,0.4,0.4,0.04,1.6,1.6,Matches
+338,Reiss Nelson,eng ENG,FW,Arsenal,19,1999,7.0,1,11,4,36.4,1.57,0.57,0.09,0.25,17.4,0,0,0,0.9,0.9,0.08,0.1,0.1,Matches
+339,Pedro Neto,pt POR,"FW,MF",Wolves,19,2000,10.4,3,17,6,35.3,1.63,0.58,0.18,0.50,16.9,0,0,0,2.2,2.2,0.13,0.8,0.8,Matches
+340,Rúben Neves,pt POR,MF,Wolves,22,1997,34.0,2,61,10,16.4,1.80,0.29,0.03,0.20,28.0,7,0,0,2.0,2.0,0.03,0.0,0.0,Matches
+341,Jeremy Ngakia,eng ENG,DF,West Ham,18,2000,4.9,0,1,1,100.0,0.20,0.20,0.00,0.00,33.2,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+342,Oumar Niasse,sn SEN,FW,Everton,29,1990,0.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+343,Eddie Nketiah,eng ENG,FW,Arsenal,20,1999,7.0,2,15,5,33.3,2.13,0.71,0.13,0.40,12.2,0,0,0,3.1,3.1,0.21,-1.1,-1.1,Matches
+344,Mark Noble,eng ENG,MF,West Ham,32,1987,29.7,4,14,3,21.4,0.47,0.10,0.07,0.33,25.8,0,3,3,2.9,0.6,0.04,1.1,0.4,Matches
+345,Oliver Norwood,nir NIR,MF,Sheffield Utd,28,1991,34.3,1,16,5,31.3,0.47,0.15,0.00,0.00,27.8,4,1,1,1.5,0.7,0.04,-0.5,-0.7,Matches
+346,Ørjan Nyland,no NOR,GK,Aston Villa,28,1990,6.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+347,Jack O'Connell,eng ENG,DF,Sheffield Utd,25,1994,32.4,0,14,2,14.3,0.43,0.06,0.00,0.00,10.9,0,0,0,1.0,1.0,0.07,-1.0,-1.0,Matches
+348,Michael Obafemi,ie IRL,FW,Southampton,19,2000,7.4,3,12,5,41.7,1.62,0.68,0.25,0.60,14.4,0,0,0,1.8,1.8,0.15,1.2,1.2,Matches
+349,Angelo Ogbonna,it ITA,DF,West Ham,31,1988,31.0,2,13,4,30.8,0.42,0.13,0.15,0.50,11.0,0,0,0,1.8,1.8,0.14,0.2,0.2,Matches
+350,Divock Origi,be BEL,FW,Liverpool,24,1995,8.0,4,14,6,42.9,1.76,0.75,0.29,0.67,15.7,0,0,0,1.8,1.8,0.13,2.2,2.2,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+351,Ben Osborn,eng ENG,"MF,DF",Sheffield Utd,24,1994,6.6,0,3,1,33.3,0.45,0.15,0.00,0.00,13.8,0,0,0,0.3,0.3,0.08,-0.3,-0.3,Matches
+352,Nicolás Otamendi,ar ARG,DF,Manchester City,31,1988,19.1,2,15,7,46.7,0.79,0.37,0.13,0.29,8.4,0,0,0,1.9,1.9,0.13,0.1,0.1,Matches
+353,Alex Oxlade-Chamberlain,eng ENG,"MF,FW",Liverpool,25,1993,16.5,4,40,10,25.0,2.42,0.61,0.10,0.40,22.5,0,0,0,2.8,2.8,0.07,1.2,1.2,Matches
+354,Mesut Özil,de GER,MF,Arsenal,30,1988,16.0,1,9,3,33.3,0.56,0.19,0.11,0.33,14.2,0,0,0,1.4,1.4,0.16,-0.4,-0.4,Matches
+355,Emerson Palmieri,it ITA,DF,Chelsea,24,1994,11.4,0,13,7,53.8,1.14,0.62,0.00,0.00,19.2,1,0,0,1.1,1.1,0.09,-1.1,-1.1,Matches
+356,Sokratis Papastathopoulos,gr GRE,DF,Arsenal,31,1988,18.8,2,7,2,28.6,0.37,0.11,0.29,1.00,9.9,0,0,0,1.1,1.1,0.15,0.9,0.9,Matches
+357,Troy Parrott,ie IRL,FW,Tottenham,17,2002,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+358,Rui Patrício,pt POR,GK,Wolves,31,1988,38.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+359,Pedro,es ESP,"FW,MF",Chelsea,32,1987,7.3,1,22,10,45.5,3.00,1.36,0.05,0.10,15.8,0,0,0,2.0,2.0,0.09,-1.0,-1.0,Matches
+360,Nicolas Pépé,ci CIV,FW,Arsenal,24,1995,22.3,5,49,17,34.7,2.19,0.76,0.08,0.24,20.0,7,1,1,4.9,4.1,0.08,0.1,-0.1,Matches
+361,Andreas Pereira,br BRA,"MF,FW",Manchester Utd,23,1996,16.5,1,37,14,37.8,2.24,0.85,0.03,0.07,22.9,3,0,0,2.3,2.3,0.06,-1.3,-1.3,Matches
+362,Ricardo Pereira,pt POR,DF,Leicester City,25,1993,28.0,3,18,5,27.8,0.64,0.18,0.17,0.60,18.4,0,0,0,1.2,1.2,0.06,1.8,1.8,Matches
+363,Roberto Pereyra,ar ARG,"FW,MF",Watford,28,1991,18.3,3,20,8,40.0,1.09,0.44,0.10,0.25,19.1,4,1,1,3.1,2.3,0.12,-0.1,-0.3,Matches
+364,Ayoze Pérez,es ESP,"MF,FW",Leicester City,26,1993,22.3,8,46,21,45.7,2.07,0.94,0.15,0.33,14.5,0,1,1,6.5,5.7,0.13,1.5,1.3,Matches
+365,Jordan Pickford,eng ENG,GK,Everton,25,1994,38.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+366,Brandon Pierrick,eng ENG,"MF,FW",Crystal Palace,17,2001,0.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+367,Erik Pieters,nl NED,"DF,MF",Burnley,30,1988,20.9,0,14,3,21.4,0.67,0.14,0.00,0.00,22.1,0,0,0,0.5,0.5,0.04,-0.5,-0.5,Matches
+368,Daniel Podence,pt POR,"FW,MF",Wolves,23,1995,3.2,1,10,3,30.0,3.11,0.93,0.10,0.33,14.0,0,0,0,1.2,1.2,0.12,-0.2,-0.2,Matches
+369,Paul Pogba,fr FRA,MF,Manchester Utd,26,1993,13.4,1,21,7,33.3,1.57,0.52,0.05,0.14,22.5,2,0,1,2.4,1.6,0.08,-1.4,-0.6,Matches
+370,Nick Pope,eng ENG,GK,Burnley,27,1992,38.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+371,Dennis Praet,be BEL,MF,Leicester City,25,1994,12.6,1,16,3,18.8,1.27,0.24,0.06,0.33,18.6,0,0,0,0.9,0.9,0.06,0.1,0.1,Matches
+372,Sebastian Prödl,at AUT,DF,Watford,32,1987,0.6,0,2,0,0.0,3.21,0.00,0.00,,10.7,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+373,Davy Pröpper,nl NED,MF,Brighton,27,1991,31.4,1,29,8,27.6,0.92,0.25,0.03,0.13,21.4,0,0,0,1.6,1.6,0.06,-0.6,-0.6,Matches
+374,Teemu Pukki,fi FIN,FW,Norwich City,29,1990,32.1,11,78,33,42.3,2.43,1.03,0.12,0.27,15.5,0,2,2,11.2,9.7,0.12,-0.2,-0.7,Matches
+375,Christian Pulisic,us USA,FW,Chelsea,20,1998,19.1,9,63,25,39.7,3.29,1.31,0.14,0.36,13.4,0,0,0,9.0,9.0,0.14,0.0,0.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+376,Ignacio Pussetto,ar ARG,"FW,MF",Watford,23,1995,0.8,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+377,Domingos Quina,pt POR,"MF,FW",Watford,19,1999,0.2,0,1,1,100.0,4.09,4.09,0.00,0.00,27.3,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+378,Aaron Ramsdale,eng ENG,GK,Bournemouth,21,1998,37.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+379,Darren Randolph,ie IRL,GK,West Ham,32,1987,2.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+380,Marcus Rashford,eng ENG,FW,Manchester Utd,21,1997,29.4,17,87,37,42.5,2.96,1.26,0.13,0.30,19.7,16,6,8,19.2,12.9,0.15,-2.2,-1.9,Matches
+381,Nathan Redmond,eng ENG,"MF,FW",Southampton,25,1994,30.7,4,59,21,35.6,1.92,0.68,0.07,0.19,18.9,2,0,0,5.1,5.1,0.09,-1.1,-1.1,Matches
+382,Pepe Reina,es ESP,GK,Aston Villa,36,1982,12.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+383,Declan Rice,eng ENG,MF,West Ham,20,1999,38.0,1,31,9,29.0,0.82,0.24,0.03,0.11,23.7,0,0,0,1.3,1.3,0.04,-0.3,-0.3,Matches
+384,Richarlison,br BRA,"FW,MF",Everton,22,1997,34.1,13,90,32,35.6,2.64,0.94,0.14,0.41,14.8,0,0,0,9.1,9.1,0.10,3.9,3.9,Matches
+385,Diego Rico,es ESP,DF,Bournemouth,26,1993,25.9,0,11,3,27.3,0.42,0.12,0.00,0.00,26.3,1,0,0,0.4,0.4,0.04,-0.4,-0.4,Matches
+386,Jaïro Riedewald,nl NED,"DF,MF",Crystal Palace,22,1996,8.5,0,3,0,0.0,0.35,0.00,0.00,,27.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+387,Matt Ritchie,sct SCO,"DF,MF",Newcastle Utd,29,1989,14.6,2,25,7,28.0,1.71,0.48,0.08,0.29,24.4,1,0,1,1.7,0.9,0.04,0.3,1.1,Matches
+388,Roberto,es ESP,GK,West Ham,33,1986,7.6,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+389,Patrick Roberts,eng ENG,"FW,MF",Norwich City,22,1997,0.3,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+390,Andrew Robertson,sct SCO,DF,Liverpool,25,1994,34.6,2,22,6,27.3,0.64,0.17,0.09,0.33,18.6,0,0,0,1.8,1.8,0.08,0.2,0.2,Matches
+391,Callum Robinson,ie IRL,"FW,MF",Sheffield Utd,24,1995,7.5,1,12,4,33.3,1.60,0.53,0.08,0.25,14.9,0,0,0,1.6,1.6,0.13,-0.6,-0.6,Matches
+392,Jack Robinson,eng ENG,DF,Sheffield Utd,25,1993,5.6,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+393,Rodri,es ESP,MF,Manchester City,23,1996,27.6,3,24,9,37.5,0.87,0.33,0.13,0.33,20.1,0,0,0,0.9,0.9,0.04,2.1,2.1,Matches
+394,Jay Rodriguez,eng ENG,FW,Burnley,30,1989,22.4,8,66,26,39.4,2.95,1.16,0.11,0.27,17.6,0,1,1,8.8,8.0,0.12,-0.8,-1.0,Matches
+395,Jack Rodwell,eng ENG,MF,Sheffield Utd,28,1991,0.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+396,Marcos Rojo,ar ARG,DF,Manchester Utd,29,1990,1.4,0,1,0,0.0,0.74,0.00,0.00,,6.7,0,0,0,0.2,0.2,0.20,-0.2,-0.2,Matches
+397,Oriol Romeu,es ESP,MF,Southampton,27,1991,20.7,0,8,0,0.0,0.39,0.00,0.00,,23.7,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Matches
+398,Danny Rose,eng ENG,DF,Tottenham,29,1990,9.9,0,2,0,0.0,0.20,0.00,0.00,,19.0,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches
+399,Danny Rose,eng ENG,DF,Newcastle Utd,29,1990,9.6,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+400,Antonio Rüdiger,de GER,DF,Chelsea,26,1993,19.0,2,12,3,25.0,0.63,0.16,0.17,0.67,13.6,0,0,0,0.9,0.9,0.07,1.1,1.1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+401,Lukas Rupp,de GER,"FW,MF",Norwich City,28,1991,7.7,0,4,2,50.0,0.52,0.26,0.00,0.00,17.7,0,0,0,0.9,0.9,0.21,-0.9,-0.9,Matches
+402,Mathew Ryan,au AUS,GK,Brighton,27,1992,38.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+403,Allan Saint-Maximin,fr FRA,"MF,FW",Newcastle Utd,22,1997,20.7,3,46,21,45.7,2.22,1.01,0.07,0.14,22.5,0,0,0,3.3,3.3,0.07,-0.3,-0.3,Matches
+404,Romain Saïss,ma MAR,DF,Wolves,29,1990,30.1,2,24,8,33.3,0.80,0.27,0.08,0.25,13.1,2,0,0,3.4,3.4,0.14,-1.4,-1.4,Matches
+405,Bukayo Saka,eng ENG,"DF,FW",Arsenal,17,2001,19.5,1,13,4,30.8,0.67,0.21,0.08,0.25,17.9,0,0,0,1.0,1.0,0.07,0.0,0.0,Matches
+406,Mamadou Sakho,fr FRA,DF,Crystal Palace,29,1990,10.3,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+407,Mohamed Salah,eg EGY,FW,Liverpool,27,1992,32.0,19,129,56,43.4,4.04,1.75,0.12,0.29,15.0,4,3,3,19.0,16.6,0.13,0.0,-0.6,Matches
+408,Mbwana Samatta,tz TAN,FW,Aston Villa,26,1992,10.5,1,17,3,17.6,1.62,0.29,0.06,0.33,10.8,0,0,0,2.3,2.3,0.14,-1.3,-1.3,Matches
+409,Carlos Sánchez,co COL,MF,West Ham,33,1986,1.3,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+410,Davinson Sánchez,co COL,DF,Tottenham,23,1996,27.0,0,7,3,42.9,0.26,0.11,0.00,0.00,10.9,0,0,0,0.6,0.6,0.09,-0.6,-0.6,Matches
+411,Leroy Sané,de GER,FW,Manchester City,23,1996,0.1,0,2,0,0.0,15.00,0.00,0.00,,26.5,1,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+412,Ismaila Sarr,sn SEN,"FW,MF",Watford,21,1998,22.5,5,44,13,29.5,1.95,0.58,0.11,0.38,15.8,0,0,0,6.1,6.1,0.14,-1.1,-1.1,Matches
+413,Fabian Schär,ch SUI,"DF,MF",Newcastle Utd,27,1991,18.6,2,20,6,30.0,1.08,0.32,0.10,0.33,21.4,1,0,0,1.4,1.4,0.07,0.6,0.6,Matches
+414,Ezequiel Schelotto,it ITA,DF,Brighton,30,1989,4.0,0,4,1,25.0,1.00,0.25,0.00,0.00,11.3,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches
+415,Jeffrey Schlupp,gh GHA,"FW,MF",Crystal Palace,26,1992,11.5,3,18,9,50.0,1.56,0.78,0.17,0.33,18.7,0,0,0,1.7,1.7,0.10,1.3,1.3,Matches
+416,Kasper Schmeichel,dk DEN,GK,Leicester City,32,1986,38.0,0,1,0,0.0,0.03,0.00,0.00,,56.1,1,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+417,Morgan Schneiderlin,fr FRA,MF,Everton,29,1989,11.1,0,6,0,0.0,0.54,0.00,0.00,,21.4,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Matches
+418,Ryan Sessegnon,eng ENG,"DF,FW",Tottenham,19,2000,3.8,0,1,0,0.0,0.26,0.00,0.00,,17.0,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches
+419,Xherdan Shaqiri,ch SUI,"FW,MF",Liverpool,27,1991,2.1,1,4,1,25.0,1.95,0.49,0.25,1.00,20.4,0,0,0,0.5,0.5,0.13,0.5,0.5,Matches
+420,Billy Sharp,eng ENG,FW,Sheffield Utd,33,1986,11.7,3,16,7,43.8,1.37,0.60,0.19,0.43,9.6,0,0,0,3.8,3.8,0.24,-0.8,-0.8,Matches
+421,Luke Shaw,eng ENG,DF,Manchester Utd,24,1995,19.3,0,11,5,45.5,0.57,0.26,0.00,0.00,18.2,0,0,0,0.7,0.7,0.06,-0.7,-0.7,Matches
+422,Jonjo Shelvey,eng ENG,MF,Newcastle Utd,27,1992,23.5,6,45,14,31.1,1.91,0.59,0.13,0.43,26.7,8,0,0,2.5,2.5,0.05,3.5,3.5,Matches
+423,Djibril Sidibé,fr FRA,"DF,MF",Everton,27,1992,20.3,0,12,3,25.0,0.59,0.15,0.00,0.00,24.0,0,0,0,0.4,0.4,0.03,-0.4,-0.4,Matches
+424,Gylfi Sigurðsson,is ISL,MF,Everton,29,1989,28.4,2,45,12,26.7,1.58,0.42,0.02,0.08,22.8,5,1,1,4.0,3.2,0.07,-2.0,-2.2,Matches
+425,Bernardo Silva,pt POR,"FW,MF",Manchester City,24,1994,22.6,6,52,15,28.8,2.31,0.67,0.12,0.40,14.2,0,0,0,6.0,6.0,0.12,0.0,0.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+426,David Silva,es ESP,MF,Manchester City,33,1986,20.3,6,47,18,38.3,2.32,0.89,0.13,0.33,14.4,5,0,0,6.4,6.4,0.14,-0.4,-0.4,Matches
+427,Jack Simpson,eng ENG,DF,Bournemouth,22,1996,2.7,0,1,0,0.0,0.37,0.00,0.00,,15.3,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches
+428,Moussa Sissoko,fr FRA,MF,Tottenham,29,1989,27.2,2,15,4,26.7,0.55,0.15,0.13,0.50,15.2,0,0,0,2.2,2.2,0.14,-0.2,-0.2,Matches
+429,Oliver Skipp,eng ENG,MF,Tottenham,18,2000,0.9,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+430,William Smallbone,ie IRL,MF,Southampton,19,2000,4.4,0,6,0,0.0,1.37,0.00,0.00,,22.8,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches
+431,Adam Smith,eng ENG,DF,Bournemouth,28,1991,22.8,0,4,1,25.0,0.18,0.04,0.00,0.00,19.5,0,0,0,0.8,0.8,0.19,-0.8,-0.8,Matches
+432,Emile Smith Rowe,eng ENG,MF,Arsenal,19,2000,1.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+433,Robert Snodgrass,sct SCO,"MF,FW",West Ham,31,1987,16.8,5,21,10,47.6,1.25,0.60,0.24,0.50,16.8,0,0,0,2.5,2.5,0.12,2.5,2.5,Matches
+434,Cédric Soares,pt POR,"MF,DF",Arsenal,27,1991,2.8,1,1,1,100.0,0.36,0.36,1.00,1.00,26.4,0,0,0,0.0,0.0,0.02,1.0,1.0,Matches
+435,Cédric Soares,pt POR,DF,Southampton,27,1991,14.5,0,9,4,44.4,0.62,0.28,0.00,0.00,20.2,0,0,0,0.6,0.6,0.07,-0.6,-0.6,Matches
+436,Dominic Solanke,eng ENG,FW,Bournemouth,21,1997,18.3,3,32,8,25.0,1.74,0.44,0.09,0.38,14.8,0,0,0,4.6,4.6,0.14,-1.6,-1.6,Matches
+437,Tomáš Souček,cz CZE,MF,West Ham,24,1995,11.6,3,20,7,35.0,1.73,0.61,0.15,0.43,12.8,0,0,0,2.8,2.8,0.14,0.2,0.2,Matches
+438,Çağlar Söyüncü,tr TUR,DF,Leicester City,23,1996,33.7,1,17,5,29.4,0.50,0.15,0.06,0.20,10.3,0,0,0,2.1,2.1,0.12,-1.1,-1.1,Matches
+439,Dennis Srbeny,de GER,"MF,FW",Norwich City,25,1994,0.5,1,2,1,50.0,3.83,1.91,0.50,1.00,7.8,0,0,0,0.5,0.5,0.26,0.5,0.5,Matches
+440,Jack Stacey,eng ENG,DF,Bournemouth,23,1996,17.2,0,5,2,40.0,0.29,0.12,0.00,0.00,12.3,0,0,0,0.5,0.5,0.10,-0.5,-0.5,Matches
+441,Junior Stanislas,eng ENG,"MF,FW",Bournemouth,29,1989,7.9,3,17,6,35.3,2.15,0.76,0.12,0.33,20.4,3,1,1,2.1,1.4,0.08,0.9,0.6,Matches
+442,Jed Steer,eng ENG,GK,Aston Villa,26,1992,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+443,Dale Stephens,eng ENG,MF,Brighton,30,1989,28.1,0,19,2,10.5,0.68,0.07,0.00,0.00,25.6,0,0,0,0.6,0.6,0.03,-0.6,-0.6,Matches
+444,Jack Stephens,eng ENG,DF,Southampton,25,1994,27.2,1,6,1,16.7,0.22,0.04,0.17,1.00,9.2,0,0,0,1.0,1.0,0.17,0.0,0.0,Matches
+445,Raheem Sterling,eng ENG,FW,Manchester City,24,1994,29.5,20,97,36,37.1,3.29,1.22,0.21,0.56,14.0,1,0,2,18.2,16.4,0.17,1.8,3.6,Matches
+446,Enda Stevens,ie IRL,DF,Sheffield Utd,29,1990,37.2,2,22,4,18.2,0.59,0.11,0.09,0.50,17.8,0,0,0,1.3,1.3,0.06,0.7,0.7,Matches
+447,Marco Stiepermann,de GER,MF,Norwich City,28,1991,13.1,0,19,6,31.6,1.45,0.46,0.00,0.00,17.3,0,0,0,1.5,1.5,0.08,-1.5,-1.5,Matches
+448,John Stones,eng ENG,DF,Manchester City,25,1994,12.5,0,6,1,16.7,0.48,0.08,0.00,0.00,9.6,0,0,0,0.4,0.4,0.07,-0.4,-0.4,Matches
+449,Isaac Success,ng NGA,"FW,MF",Watford,23,1996,0.8,0,1,1,100.0,1.29,1.29,0.00,0.00,10.7,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+450,Ki Sung-yueng,kr KOR,MF,Newcastle Utd,30,1989,1.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+451,Andrew Surman,eng ENG,MF,Bournemouth,32,1986,2.6,0,1,0,0.0,0.38,0.00,0.00,,26.6,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+452,Sam Surridge,eng ENG,"FW,MF",Bournemouth,21,1998,0.3,0,2,0,0.0,6.67,0.00,0.00,,11.9,0,0,0,0.5,0.5,0.26,-0.5,-0.5,Matches
+453,Japhet Tanganga,eng ENG,DF,Tottenham,20,1999,5.8,0,3,1,33.3,0.51,0.17,0.00,0.00,27.1,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches
+454,Matt Targett,eng ENG,"DF,MF",Aston Villa,23,1995,25.5,1,7,4,57.1,0.27,0.16,0.14,0.25,16.5,1,0,0,0.4,0.4,0.06,0.6,0.6,Matches
+455,James Tarkowski,eng ENG,DF,Burnley,26,1992,38.0,2,21,5,23.8,0.55,0.13,0.10,0.40,9.1,0,0,0,2.1,2.1,0.10,-0.1,-0.1,Matches
+456,Charlie Taylor,eng ENG,DF,Burnley,25,1993,21.6,0,1,0,0.0,0.05,0.00,0.00,,22.2,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+457,Neil Taylor,wls WAL,DF,Aston Villa,30,1989,12.1,0,3,0,0.0,0.25,0.00,0.00,,15.1,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches
+458,Nathan Tella,ng NGA,FW,Southampton,20,1999,0.0,0,1,1,100.0,30.00,30.00,0.00,0.00,17.7,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches
+459,Alexander Tettey,no NOR,"MF,DF",Norwich City,33,1986,26.0,1,23,3,13.0,0.89,0.12,0.04,0.33,24.7,0,0,0,0.8,0.8,0.04,0.2,0.2,Matches
+460,Jordan Thomas,eng ENG,FW,Norwich City,18,2001,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+461,Luke Thomas,eng ENG,"MF,DF",Leicester City,18,2001,3.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+462,Max Thompson,eng ENG,FW,Burnley,17,2002,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+463,Youri Tielemans,be BEL,MF,Leicester City,22,1997,31.4,3,56,13,23.2,1.78,0.41,0.05,0.23,23.8,0,0,0,2.7,2.7,0.05,0.3,0.3,Matches
+464,Kieran Tierney,sct SCO,"DF,MF",Arsenal,22,1997,11.0,1,6,2,33.3,0.55,0.18,0.17,0.50,20.6,0,0,0,0.2,0.2,0.04,0.8,0.8,Matches
+465,James Tomkins,eng ENG,DF,Crystal Palace,30,1989,17.6,1,9,2,22.2,0.51,0.11,0.11,0.50,8.9,0,0,0,1.1,1.1,0.12,-0.1,-0.1,Matches
+466,Fikayo Tomori,eng ENG,DF,Chelsea,21,1997,14.3,1,7,3,42.9,0.49,0.21,0.14,0.33,14.6,0,0,0,0.4,0.4,0.06,0.6,0.6,Matches
+467,Lucas Torreira,uy URU,MF,Arsenal,23,1996,16.8,1,21,6,28.6,1.25,0.36,0.05,0.17,18.8,0,0,0,1.4,1.4,0.07,-0.4,-0.4,Matches
+468,Cenk Tosun,tr TUR,FW,Crystal Palace,28,1991,2.0,1,4,2,50.0,2.03,1.02,0.25,0.50,12.4,0,0,0,0.5,0.5,0.13,0.5,0.5,Matches
+469,Cenk Tosun,tr TUR,FW,Everton,28,1991,3.2,1,11,3,27.3,3.40,0.93,0.09,0.33,14.2,0,0,0,1.0,1.0,0.09,0.0,0.0,Matches
+470,Andros Townsend,eng ENG,"FW,MF",Crystal Palace,28,1991,14.4,1,12,5,41.7,0.83,0.35,0.08,0.20,26.1,1,0,0,0.4,0.4,0.03,0.6,0.6,Matches
+471,Adama Traoré,es ESP,"FW,DF",Wolves,23,1996,28.9,4,43,12,27.9,1.49,0.41,0.09,0.33,19.8,0,0,0,3.8,3.8,0.09,0.2,0.2,Matches
+472,Mark Travers,ie IRL,GK,Bournemouth,20,1999,1.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+473,Trézéguet,eg EGY,"FW,MF",Aston Villa,24,1994,21.7,6,50,17,34.0,2.31,0.78,0.12,0.35,17.4,4,0,0,4.7,4.7,0.09,1.3,1.3,Matches
+474,Leandro Trossard,be BEL,"FW,MF",Brighton,24,1994,22.3,5,41,11,26.8,1.83,0.49,0.12,0.45,16.0,0,0,0,5.0,5.0,0.12,0.0,0.0,Matches
+475,Tom Trybull,de GER,MF,Norwich City,26,1993,12.6,0,11,2,18.2,0.88,0.16,0.00,0.00,18.4,0,0,0,0.5,0.5,0.04,-0.5,-0.5,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+476,Axel Tuanzebe,eng ENG,DF,Manchester Utd,21,1997,2.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+477,Yan Valery,tn TUN,DF,Southampton,20,1999,8.7,0,3,2,66.7,0.35,0.23,0.00,0.00,15.5,0,0,0,0.3,0.3,0.08,-0.3,-0.3,Matches
+478,Jesús Vallejo,es ESP,DF,Wolves,22,1997,1.8,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+479,Virgil van Dijk,nl NED,DF,Liverpool,28,1991,38.0,5,31,14,45.2,0.82,0.37,0.16,0.36,11.8,0,0,0,2.9,2.9,0.09,2.1,2.1,Matches
+480,Jamie Vardy,eng ENG,FW,Leicester City,32,1987,33.7,23,84,37,44.0,2.49,1.10,0.23,0.51,13.1,0,4,5,19.2,15.3,0.19,3.8,3.7,Matches
+481,Indiana Vassilev,us USA,"FW,MF",Aston Villa,18,2001,0.6,0,1,0,0.0,1.76,0.00,0.00,,21.9,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+482,Jan Vertonghen,be BEL,DF,Tottenham,32,1987,18.3,1,4,2,50.0,0.22,0.11,0.25,0.50,12.0,0,0,0,0.4,0.4,0.10,0.6,0.6,Matches
+483,Jannik Vestergaard,dk DEN,DF,Southampton,26,1992,16.6,1,12,5,41.7,0.72,0.30,0.08,0.20,11.7,0,0,0,1.4,1.4,0.11,-0.4,-0.4,Matches
+484,Rúben Vinagre,pt POR,"MF,DF",Wolves,20,1999,7.2,0,5,0,0.0,0.69,0.00,0.00,,13.6,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Matches
+485,Jake Vokins,eng ENG,DF,Southampton,19,2000,1.0,0,1,0,0.0,1.00,0.00,0.00,,31.3,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+486,Mario Vrančić,ba BIH,MF,Norwich City,30,1989,7.1,1,14,3,21.4,1.98,0.42,0.07,0.33,19.2,2,0,0,1.5,1.5,0.11,-0.5,-0.5,Matches
+487,Matěj Vydra,cz CZE,FW,Burnley,27,1992,9.1,2,18,10,55.6,1.98,1.10,0.11,0.20,13.1,0,0,0,3.8,3.8,0.21,-1.8,-1.8,Matches
+488,Theo Walcott,eng ENG,"MF,FW",Everton,30,1989,14.3,2,31,10,32.3,2.17,0.70,0.06,0.20,16.1,0,0,0,3.1,3.1,0.10,-1.1,-1.1,Matches
+489,Kyle Walker,eng ENG,DF,Manchester City,29,1990,26.6,1,14,3,21.4,0.53,0.11,0.07,0.33,25.0,1,0,0,1.2,1.2,0.09,-0.2,-0.2,Matches
+490,Kyle Walker-Peters,eng ENG,DF,Southampton,22,1997,7.8,0,2,0,0.0,0.26,0.00,0.00,,15.6,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+491,Kyle Walker-Peters,eng ENG,DF,Tottenham,22,1997,2.7,0,1,0,0.0,0.37,0.00,0.00,,22.7,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+492,Aaron Wan-Bissaka,eng ENG,DF,Manchester Utd,21,1997,34.1,0,7,1,14.3,0.21,0.03,0.00,0.00,15.5,0,0,0,0.7,0.7,0.10,-0.7,-0.7,Matches
+493,Victor Wanyama,ke KEN,MF,Tottenham,28,1991,0.3,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+494,Joel Ward,eng ENG,DF,Crystal Palace,29,1989,26.5,0,5,1,20.0,0.19,0.04,0.00,0.00,15.1,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches
+495,James Ward-Prowse,eng ENG,"MF,DF",Southampton,24,1994,38.0,5,54,23,42.6,1.42,0.61,0.07,0.17,23.9,24,1,3,7.3,4.8,0.09,-2.3,-0.8,Matches
+496,Kelland Watts,eng ENG,DF,Newcastle Utd,19,1999,0.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+497,Adam Webster,eng ENG,DF,Brighton,24,1995,29.6,3,16,7,43.8,0.54,0.24,0.19,0.43,13.6,0,0,0,1.3,1.3,0.08,1.7,1.7,Matches
+498,Danny Welbeck,eng ENG,"FW,MF",Watford,28,1990,9.1,2,22,9,40.9,2.41,0.99,0.09,0.22,11.0,0,0,0,3.9,3.9,0.18,-1.9,-1.9,Matches
+499,Ashley Westwood,eng ENG,MF,Burnley,29,1990,35.0,2,13,3,23.1,0.37,0.09,0.15,0.67,20.2,2,0,0,1.1,1.1,0.08,0.9,0.9,Matches
+500,Connor Wickham,eng ENG,"FW,MF",Crystal Palace,26,1993,1.1,1,3,2,66.7,2.81,1.87,0.33,0.50,11.2,0,0,0,1.4,1.4,0.46,-0.4,-0.4,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+501,Georginio Wijnaldum,nl NED,MF,Liverpool,28,1990,32.6,4,36,15,41.7,1.10,0.46,0.11,0.27,16.2,0,0,0,2.6,2.6,0.07,1.4,1.4,Matches
+502,Jetro Willems,nl NED,DF,Newcastle Utd,25,1994,16.6,2,14,6,42.9,0.84,0.36,0.14,0.33,19.6,0,0,0,0.6,0.6,0.04,1.4,1.4,Matches
+503,Brandon Williams,eng ENG,DF,Manchester Utd,18,2000,11.2,1,6,2,33.3,0.54,0.18,0.17,0.50,13.1,0,0,0,1.0,1.0,0.16,0.0,0.0,Matches
+504,Neco Williams,wls WAL,DF,Liverpool,18,2001,2.6,0,7,1,14.3,2.74,0.39,0.00,0.00,21.8,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches
+505,Willian,br BRA,"FW,MF",Chelsea,30,1988,28.9,9,67,25,37.3,2.32,0.87,0.07,0.20,20.0,9,4,4,7.6,4.5,0.07,1.4,0.5,Matches
+506,Joe Willock,eng ENG,"MF,FW",Arsenal,19,1999,9.5,1,15,4,26.7,1.58,0.42,0.07,0.25,16.7,0,0,0,1.6,1.6,0.11,-0.6,-0.6,Matches
+507,Jack Wilshere,eng ENG,MF,West Ham,27,1992,2.4,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+508,Callum Wilson,eng ENG,FW,Bournemouth,27,1992,32.3,8,55,21,38.2,1.70,0.65,0.15,0.38,12.4,0,0,0,9.9,9.9,0.18,-1.9,-1.9,Matches
+509,Harry Wilson,wls WAL,"MF,FW",Bournemouth,22,1997,18.3,7,56,20,35.7,3.06,1.09,0.13,0.35,20.8,12,0,0,4.0,4.0,0.07,3.0,3.0,Matches
+510,Harry Winks,eng ENG,MF,Tottenham,23,1996,24.7,0,14,2,14.3,0.57,0.08,0.00,0.00,25.4,0,0,0,0.5,0.5,0.04,-0.5,-0.5,Matches
+511,Chris Wood,nz NZL,FW,Burnley,27,1991,27.1,14,64,28,43.8,2.36,1.03,0.20,0.46,10.7,0,1,1,15.7,14.9,0.23,-1.7,-1.9,Matches
+512,Granit Xhaka,ch SUI,MF,Arsenal,26,1992,28.7,1,11,3,27.3,0.38,0.10,0.09,0.33,23.0,0,0,0,0.5,0.5,0.05,0.5,0.5,Matches
+513,Andriy Yarmolenko,ua UKR,"MF,FW",West Ham,29,1989,11.0,5,26,13,50.0,2.36,1.18,0.19,0.38,17.8,2,0,0,2.4,2.4,0.09,2.6,2.6,Matches
+514,DeAndre Yedlin,us USA,DF,Newcastle Utd,26,1993,10.4,1,1,1,100.0,0.10,0.10,1.00,1.00,3.4,0,0,0,0.8,0.8,0.75,0.2,0.2,Matches
+515,Maya Yoshida,jp JPN,DF,Southampton,30,1988,6.2,0,5,3,60.0,0.80,0.48,0.00,0.00,11.6,0,0,0,0.7,0.7,0.13,-0.7,-0.7,Matches
+516,Ashley Young,eng ENG,DF,Manchester Utd,34,1985,10.6,0,3,0,0.0,0.28,0.00,0.00,,21.3,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+517,Pablo Zabaleta,ar ARG,DF,West Ham,34,1985,6.6,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+518,Wilfried Zaha,ci CIV,"FW,MF",Crystal Palace,26,1992,36.4,4,61,17,27.9,1.67,0.47,0.07,0.24,16.2,0,0,0,5.2,5.2,0.08,-1.2,-1.2,Matches
+519,Christoph Zimmermann,de GER,DF,Norwich City,26,1993,15.9,0,6,1,16.7,0.38,0.06,0.00,0.00,16.8,0,0,0,0.4,0.4,0.06,-0.4,-0.4,Matches
+520,Oleksandr Zinchenko,ua UKR,DF,Manchester City,22,1996,14.2,0,16,3,18.8,1.13,0.21,0.00,0.00,26.0,0,0,0,0.5,0.5,0.03,-0.5,-0.5,Matches
+521,Richairo Živković,cw CUW,FW,Sheffield Utd,22,1996,1.2,0,1,0,0.0,0.80,0.00,0.00,,11.6,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches
+522,Kurt Zouma,fr FRA,DF,Chelsea,24,1994,26.0,0,15,5,33.3,0.58,0.19,0.00,0.00,11.4,0,0,0,1.2,1.2,0.08,-1.2,-1.2,Matches
