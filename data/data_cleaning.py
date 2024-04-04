@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 
-def consolidate_fpl_player_offensive_data(directory):
+def consolidateFPLPlayerOffensiveData(directory):
     dfs = []
     for filename in os.listdir(directory):
         if filename.endswith(".csv"):
