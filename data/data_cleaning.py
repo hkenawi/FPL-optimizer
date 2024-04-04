@@ -19,8 +19,6 @@ def consolidate_fpl_player_offensive_data(directory):
         stacked_df = stacked_df[stacked_df['kickoff_time'] >= '2018-08-10']
 
     return stacked_df
-
-
 if __name__ == "__main__":
     desktop_path = os.path.join(os.path.expanduser("~"), "Desktop")
     project_directory = "/Users/ismailelshafei/PycharmProjects/pythonProject3"
