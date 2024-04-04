@@ -25,5 +25,3 @@ if __name__ == "__main__":
     stacked_and_sorted_df = consolidateFPLPlayerOffensiveData(project_directory)
     output_file = os.path.join(desktop_path, "stacked_data.csv.gz")
     stacked_and_sorted_df.to_csv(output_file, index=False, compression='gzip')
-
-
