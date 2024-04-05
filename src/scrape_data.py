@@ -42,7 +42,9 @@ def scrapeMatchLogTable() -> None:
     Scrape the match-log data for each player for seasons 2018/19-2022/23
     :return: Stacked dataframe with all seasons data
     """
-    main_page_links = ['https://fbref.com/en/comps/9/2020-2021/stats/2020-2021-Premier-League-Stats',
+    main_page_links = ['https://fbref.com/en/comps/9/2022-2023/stats/2022-2023-Premier-League-Stats',
+                       'https://fbref.com/en/comps/9/2021-2022/stats/2021-2022-Premier-League-Stats'
+                       'https://fbref.com/en/comps/9/2020-2021/stats/2020-2021-Premier-League-Stats',
                        'https://fbref.com/en/comps/9/2019-2020/stats/2019-2020-Premier-League-Stats',
                        'https://fbref.com/en/comps/9/2018-2019/stats/2018-2019-Premier-League-Stats']
 
@@ -52,11 +54,19 @@ def scrapeMatchLogTable() -> None:
         df = pd.DataFrame()
         url = 'https://fbref.com'
         for link in links:
-            full_url = url + link
-            temp_df = pd.read_html(full_url)[0]
-            df = pd.concat([df, temp_df])
-            print(f'{link}: complete')
-            time.sleep(1)
+            for i in range(3):
+                try:
+                    full_url = url + link
+                    temp_df = pd.read_html(full_url)[0]
+                    temp_df['Name'] = link
+                    df = pd.concat([df, temp_df])
+                    print(f'{link}: complete')
+                except Exception:
+                    print(f'Retry: {i}')
+                    time.sleep(1)
+                else:
+                    time.sleep(1)
+                    break
         df.to_csv(f'./data/raw data/{main_link[29:38].replace("-", "_")}_player_match_log_data.csv')
 
 
