@@ -3,6 +3,7 @@
 This script will contain functions for cleaning each individual dataset
 """
 
+import numpy as np
 import pandas as pd
 
 def cleanFBRefPlayerOffensiveData() -> pd.DataFrame:
@@ -24,5 +25,27 @@ def cleanFBRefPlayerOffensiveData() -> pd.DataFrame:
                        'np:G-xG', 'is_pk_taker']
     return df[columns_to_keep]
 
+
+def cleanPlayerMatchLogData() -> pd.DataFrame:
+    df = pd.read_csv('../data/consolidated_player_match_log_data.csv')
+
+    df.dropna(subset=['Date'])
+    df = df[df['Comp'] == 'Premier League']
+    df = df[df['Min'] != 'On matchday squad, but did not play']
+
+    df.rename(columns={'Unnamed: 38': 'Name'},
+              inplace=True)
+    df['Name'] = df['Name'].str.split('/').apply(lambda x: x[-1]).str.split('-').apply(lambda x: x[:-2]).str.join(' ')
+
+    conditions = [df['Venue']=='Home', df['Venue']=='Away']
+    choices = (1, 0)
+    df['is_home'] = np.select(conditions, choices)
+
+    columns_to_keep = ['Date', 'Opponent', 'Min', 'xG', 'npxG',
+                       'xAG', 'Name', 'season', 'is_home']
+
+    return df[columns_to_keep]
+
 if __name__ == "__main__":
-    df = cleanFBRefPlayerOffensiveData()
+    df1 = cleanFBRefPlayerOffensiveData()
+    df2 = cleanPlayerMatchLogData()
