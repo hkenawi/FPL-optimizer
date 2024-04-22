@@ -3,7 +3,7 @@
 This script will contain functions for cleaning team-level data
 Functions:
     Primary:
-        mergeTeamAdvNormGkData
+        mergeTeamData
     Secondary:
         cleanTeamGkData
         cleanTeamAdvGkData
