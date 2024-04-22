@@ -1,4 +1,12 @@
 # Data consolidation
+"""
+This script will contain raw data consolidation functions
+Functions:
+    consolidateFBRefPlayerOffensiveData
+    consolidateFBRefTeamDefensiveData
+    consolidateFBRefTeamGoalkeepingData
+    consolidateFBRefPlayerMatchData
+"""
 
 import pandas as pd
 
@@ -58,6 +66,8 @@ def consolidateFBRefTeamGoalkeepingData(advanced: bool = False) -> pd.DataFrame:
         if not advanced:
             temp_df = pd.read_csv(filepath_or_buffer=f'./data/raw data/{season}_team_goalkeeping_stats.csv',
                                   header=1)
+            if season == '2022_23':
+                temp_df = pd.read_csv(filepath_or_buffer=f'./data/raw data/{season}_team_goalkeeping_stats.csv')
         else:
             temp_df = pd.read_csv(filepath_or_buffer=f'./data/raw data/{season}_team_adv_goalkeeping_stats.csv',
                                   header=1)
@@ -89,11 +99,11 @@ def consolidateFBRefPlayerMatchData() -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    # stacked_offensive_player_df = consolidateFBRefPlayerOffensiveData()
-    # stacked_offensive_player_df.to_csv('./data/consolidated_player_offensive_stats.csv')
-    #
-    # stacked_match_log_df = consolidateFBRefPlayerMatchData()
-    # stacked_match_log_df.to_csv('./data/consolidated_player_match_log_data.csv')
+    stacked_offensive_player_df = consolidateFBRefPlayerOffensiveData()
+    stacked_offensive_player_df.to_csv('./data/consolidated_player_offensive_stats.csv')
+
+    stacked_match_log_df = consolidateFBRefPlayerMatchData()
+    stacked_match_log_df.to_csv('./data/consolidated_player_match_log_data.csv')
 
     stacked_defensive_team_df = consolidateFBRefTeamDefensiveData()
     stacked_defensive_team_df.to_csv('./data/consolidated_team_defensive_stats.csv')
