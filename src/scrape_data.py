@@ -2,6 +2,11 @@
 
 """
 Scrapes player match-log data from FBRef
+Functions:
+    Primary:
+        scrapeMatchLogTable
+    Secondary:
+        getPlayerLinks
 """
 
 import bs4
