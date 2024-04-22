@@ -4,10 +4,10 @@ This script will contain functions for cleaning team-level data
 Functions:
     Primary:
         mergeTeamAdvNormGkData
-        cleanTeamDefensiveData
     Secondary:
         cleanTeamGkData
         cleanTeamAdvGkData
+        cleanTeamDefensiveData
 """
 
 import pandas as pd
@@ -55,20 +55,6 @@ def cleanTeamAdvancedGkData() -> pd.DataFrame:
     return df[columns_to_keep]
 
 
-def mergeTeamAdvNormGkData() -> pd.DataFrame:
-    """
-    Merges normal and advanced team goalkeeping data by team and season
-    :return: Merged team goalkeeping data with regular and advanced statistics
-    """
-    normal_data = cleanTeamGkData()
-    advanced_data = cleanTeamAdvancedGkData()
-
-    return normal_data.merge(advanced_data,
-                             how='left',
-                             on=['Squad', 'season'],
-                             copy=False)
-
-
 def cleanTeamDefensiveData() -> pd.DataFrame:
     """
     Conducts necessary cleaning of team defensive actions data
@@ -94,6 +80,25 @@ def cleanTeamDefensiveData() -> pd.DataFrame:
     return df
 
 
+def mergeTeamData() -> pd.DataFrame:
+    """
+    Merges all team-level into one dataset
+    :return: Merged team data
+    """
+    normal_data = cleanTeamGkData()
+    advanced_data = cleanTeamAdvancedGkData()
+    defensive_data = cleanTeamDefensiveData()
+
+    merged_data = normal_data.merge(advanced_data,
+                                    how='left',
+                                    on=['Squad', 'season'],
+                                    copy=False)
+
+    return merged_data.merge(defensive_data,
+                             how='left',
+                             on=['Squad', 'season'],
+                             copy=False)
+
+
 if __name__ == "__main__":
-    df1 = mergeTeamAdvNormGkData()
-    df2 = cleanTeamDefensiveData()
+    df = mergeTeamData()
