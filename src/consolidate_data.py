@@ -39,8 +39,11 @@ def consolidateFBRefTeamDefensiveData() -> pd.DataFrame:
     seasons = ['2018_19', '2019_20', '2020_21', '2021_22', '2022_23']
 
     for season in seasons:
-        temp_df = pd.read_csv(filepath_or_buffer=f'./data/raw data/{season}_team_defensive_stats.csv',
-                              header=1)
+        if season == '2018_19':
+            temp_df = pd.read_csv(filepath_or_buffer=f'./data/raw data/{season}_team_defensive_stats.csv')
+        else:
+            temp_df = pd.read_csv(filepath_or_buffer=f'./data/raw data/{season}_team_defensive_stats.csv',
+                                  header=1)
         temp_df['season'] = season
         df = pd.concat([df, temp_df])
         df.reset_index(drop=True,
@@ -64,10 +67,11 @@ def consolidateFBRefTeamGoalkeepingData(advanced: bool = False) -> pd.DataFrame:
 
     for season in seasons:
         if not advanced:
-            temp_df = pd.read_csv(filepath_or_buffer=f'./data/raw data/{season}_team_goalkeeping_stats.csv',
-                                  header=1)
             if season == '2022_23':
                 temp_df = pd.read_csv(filepath_or_buffer=f'./data/raw data/{season}_team_goalkeeping_stats.csv')
+            else:
+                temp_df = pd.read_csv(filepath_or_buffer=f'./data/raw data/{season}_team_goalkeeping_stats.csv',
+                                      header=1)
         else:
             temp_df = pd.read_csv(filepath_or_buffer=f'./data/raw data/{season}_team_adv_goalkeeping_stats.csv',
                                   header=1)
