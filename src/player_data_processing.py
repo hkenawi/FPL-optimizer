@@ -7,6 +7,8 @@ Functions:
     Secondary:
         cleanPlayerMatchLogData
         cleanFBRefPlayerOffensiveData
+    Tertiary:
+        getWeightedAverage
 """
 
 import numpy as np
@@ -59,18 +61,23 @@ def cleanFBRefPlayerOffensiveData() -> pd.DataFrame:
                        'PKatt_x': 'PKatt'},
               inplace=True)
     df['is_pk_taker'] = df['PKatt']/df['team_PKatt'] >= 0.5
+
     df['season'] = df['season'].str.replace('_', '_20')
     df['Player'] = df['Player'].str.replace('-', '').str.replace(' ', '').str.upper().str.strip()
     df['Player'] = df['Player'].apply(unidecode)
+    df = df[df['90s'] != 0].reset_index(drop=True)
 
     columns_to_keep = ['Player', 'season', 'SoT%', 'Sh/90',
                        'SoT/90', 'G/Sh', 'G/SoT', 'Dist', 'npxG/Sh',
-                       'np:G-xG', 'is_pk_taker']
+                       'np:G-xG', 'is_pk_taker', '90s']
     df = df[columns_to_keep]
+
     df = df.groupby(['Player', 'season'],
-                    as_index=False)[['SoT%', 'Sh/90',
-                                     'SoT/90', 'G/Sh', 'G/SoT', 'Dist', 'npxG/Sh',
-                                     'np:G-xG', 'is_pk_taker']].mean()
+                    as_index=False).apply(getWeightedAverage,
+                                          ['SoT%', 'Sh/90',
+                                           'SoT/90', 'G/Sh', 'G/SoT', 'Dist', 'npxG/Sh',
+                                           'np:G-xG', 'is_pk_taker'],
+                                          '90s')
     return df
 
 
@@ -84,6 +91,24 @@ def mergePlayerData() -> pd.DataFrame:
                                    copy=False)
 
     return merged_data
+
+
+def getWeightedAverage(df: pd.DataFrame,
+                       columns: list,
+                       weight: str) -> pd.Series:
+    """
+    Calculates weighted average of provided dataframe columns
+    :param df: Input dataframe with value columns and weight column
+    :param columns: The columns to be averaged
+    :param weight: The weight column
+
+    :return: A pandas series with the averaged columns
+    """
+    return pd.Series(np.average(df[columns],
+                                weights=df[weight],
+                                axis=0),
+                     columns)
+
 
 if __name__ == "__main__":
     df1 = cleanFBRefPlayerOffensiveData()
